@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: cyan
 
 # SEO
 marketing:
@@ -29,18 +29,27 @@ marketing:
 # Site header
 header:
   navbar:
-    enable: true
-    blox: "navbar"
-    fixed_to_top: true
-    show_search: true
-    show_theme_chooser: true
+    enable: true  # Display the navigation bar?
+    blox: "navbar"  # Choose a built-in navigation blox or create your own
+    align: "center"  # Align menu links: `left`, `center`, or `right`
+    fixed_to_top: true  # Fix the navigation bar to the top of the page
+    show_search: true  # Let the user search from the navigation bar?
+    show_theme_chooser: true  # Let the user choose between light or dark mode
+    highlight_active_link: true  # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
     logo:
-      text: "Your Name"
+      text: "Haobin Tan"
+      filename: "icon.jpg"  # Logo filename in `assets/media/` folder
+
+    # Shop a call-to-action button in the top right?
+    button:
+      enable: false
+      text: "Get Started"
+      url: "https://hugoblox.com/templates/"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Haobin Tan. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -49,12 +58,25 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '2006-01-02'
+  time_format: '15:04 PM'
+  address_format: en-us
 
 # Site features
 features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - python
+      - markdown
+      - bash
+      - r
+      - latex
+      - yaml
+    theme: "dracula"
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
+  diagram:
+    enable: true
