@@ -106,36 +106,52 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  # - name: Specification
+  #   item:
+  #     - name: Deep Learning
+
+  - name: !
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+        # percent: 80
+        icon: devicon/python
+      - name: TypeScript
+        icon: devicon/typescript
+      - name: Bash
+        icon: devicon/bash
+      # - name: Jupyter
+      #   icon: devicon/jupyter
+      
+  - name: !
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - name: PyTorch
+        icon: devicon/pytorch
+      - name: Markdown
+        icon: devicon/markdown
+      - name: Linux
+        icon: "devicon/linux"
+      # - name: VS Code
+      #   icon: devicon/vscode
+
+  - name: !
+    items:
+      - name: Java
+        icon: devicon/java
+      - name: LaTex
+        icon: devicon/latex
+      - name: Unix
+        icon: devicon/unix
+
+  - name: !
+    items:
+      - name: JvaScript
+        icon: devicon/javascript
+      - name: C#
+        icon: devicon/csharp
+      - name: Git
+        icon: devicon/git
+    
 
 languages:
   - name: English
@@ -208,12 +224,11 @@ accomplishment:
     url: "https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting"
 ---
 
-## About Me
 
-🔥 **Passionate AI and Deep Learning practitioner**
+<!-- 🔥 **Passionate AI and Deep Learning practitioner**
 
 🧑‍💻 **Software developer (most of the time Pythonist)**
 
 👨‍🎓 **Lifelong learner, always exploring**
 
-🤙 **Keep it simple stupid (KISS)**
+🤙 **Keep it simple stupid (KISS)** -->
