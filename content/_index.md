@@ -6,44 +6,46 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "2rem"
+
+
+# Possible block type: 
+# resume-biography-3, 
+# biography, skills, awards, languages (Example: https://raw.githubusercontent.com/HugoBlox/theme-resume/main/content/_index.md)
+# hero, stats, features, cta-card (Example: https://raw.githubusercontent.com/HugoBlox/theme-documentation/main/content/_index.md)
 
 sections:
-  - block: resume-biography-3
+  - block: biography
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      # button:
+      #   text: Download CV
+      #   url: uploads/resume.pdf
     design:
       css_class: dark
       background:
-        color: black
+        color: gray
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
           filters:
-            brightness: 1.0
+            brightness: 0.5
           size: cover
           position: center
-          parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+          parallax: true
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
+  - block: experience
+    id: experience
+    content:
+      title: 'Experience'
+      subtitle: ''
+      username: admin
+
   - block: collection
-    id: papers
+    id: publications
     content:
       title: Featured Publications
       filters:
@@ -51,57 +53,127 @@ sections:
           - publication
         featured_only: true
     design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
+      view: card
       columns: 1
-  - block: collection
-    id: news
+
+  - block: skills
+    id: skills
     content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      title: Skills
+      items:
+        - name: Python
+          icon: devicon/python
+        - name: PyTorch
+          icon: devicon/pytorch
+        - name: Java
+          icon: devicon/java
+        - name: Java
+          icon: devicon/javascript
+        - name: TypeScript
+          icon: devicon/typescript
+        - name: Markdown
+          icon: devicon/markdown
+        - name: LaTex
+          icon: devicon/latex
+        - name: C#
+          icon: devicon/csharp
+        - name: Bash
+          icon: devicon/bash
+        - name: Linux
+          icon: "devicon/linux"
+        - name: Unix
+          icon: devicon/unix
+        - name: Git
+          icon: devicon/git
+        - name: Jupyter
+          icon: devicon/jupyter
+        - name: VS Code
+          icon: devicon/vscode
+
+  - block: awards
+    id: awards
+    content:
+      title: 'Accomlishments'
+
+  - block: languages
+    id: languages
+    content:
+      title: 'Languages'
+      items:
+        - name: Chinese & Cantonese
+          icon: custom/china
+        - name: English
+        - name: German
+
+  
+
+
+
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+
+  #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        
+  #       Please reach out to collaborate 😃
+  #   design:
+  #     columns: '1'
+
+  # - block: collection
+  #   content:
+  #     title: Publications
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
+
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
+
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title: Recent News
+  #     subtitle: ''
+  #     text: ''
+  #      to display. E.g. post, talk, publication...
+  #     page_type: post
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: date-title-summary
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
@@ -122,4 +194,20 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
+
+
+blocks:
+  - block: skills
+    title: "My Language Skills"
+    skills:
+      - name: "English"
+        level: "Advanced"
+        stars: 5
+      - name: "German"
+        level: "Intermediate"
+        stars: 4
+      - name: "Spanish"
+        level: "Basic"
+        stars: 3
+
 ---
