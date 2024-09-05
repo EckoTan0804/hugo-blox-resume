@@ -31,132 +31,136 @@ main:
   url: post/
   identifier: post
   weight: 200
+
 - name: "\U0001F916 AI"
-  url: ai/
+  url: docs/ai/
   identifier: ai
   weight: 300
 - name: Machine Learning
-  url: ai/machine-learning
+  url: docs/ai/machine-learning
   identifier: ml
   parent: ai
   weight: 301
 - name: Deep Learning
-  url: ai/deep-learning
+  url: docs/ai/deep-learning
   identifier: dl
   parent: ai
   weight: 302
 - name: Computer Vision
-  url: ai/computer-vision
+  url: docs/ai/computer-vision
   identifier: cv
   parent: ai
   weight: 303
 - name: Computer Vision
-  url: ai/computer-vision
+  url: docs/ai/computer-vision
   identifier: cv
   parent: ai
   weight: 304
 - name: Natural Language Processing
-  url: ai/natural-language-processing
+  url: docs/ai/natural-language-processing
   identifier: nlp
   parent: ai
   weight: 305
 - name: PyTorch
-  url: ai/pytorch
+  url: docs/ai/pytorch
   identifier: pytorch
   parent: ai
   weight: 306
+
 - name: "\U0001F9D1\u200D\U0001F4BB Coding"
-  url: programming/
-  identifier: programming
+  url: docs/coding/
+  identifier: coding
   weight: 400
 - name: Python
-  url: programming/python
+  url: docs/coding/python
   identifier: python
-  parent: programming
+  parent: coding
   weight: 401
 - name: Docker
-  url: programming/docker
+  url: docs/coding/docker
   identifier: docker
-  parent: programming
+  parent: coding
   weight: 402
 - name: Linux
-  url: programming/linux
+  url: docs/coding/linux
   identifier: linux
-  parent: programming
+  parent: coding
   weight: 403
 - name: Git
-  url: programming/git
+  url: docs/coding/git
   identifier: git
-  parent: programming
+  parent: coding
   weight: 404
 - name: C++
-  url: programming/c++
+  url: docs/coding/c++
   identifier: c++
-  parent: programming
+  parent: coding
   weight: 405
+  
 - name: "\U0001F4BB CS"
-  url: cs/
+  url: docs/cs/
   identifier: cs
   weight: 500
 - name: Algorithm
-  url: cs/algorithm
+  url: docs/cs/algorithm
   identifier: algo
   parent: cs
   weight: 501
 - name: Software Engineering
-  url: cs/software-engineering
+  url: docs/cs/software-engineering
   identifier: software-engineering
   parent: cs
   weight: 502
 - name: Project Management
-  url: cs/project_management
+  url: docs/cs/project_management
   identifier: project-management
   parent: cs
   weight: 503
 - name: Practical Skills
-  url: cs/practical_skills
+  url: docs/cs/practical_skills
   identifier: practical-skills
   parent: cs
   weight: 504
-- name: "\U0001F4DD Notes"
-  url: notes/
-  identifier: notes
-  weight: 600
-- name: GIE
-  url: notes/gestaltungsgrundsaetze-fuer-interaktive-echtzeitsysteme
-  identifier: gestaltungsgrundsaetze-fuer-interaktive-echtzeitsysteme
-  parent: notes
-  weight: 601
-- name: Rechnerstruktur
-  url: notes/rechner-struktur
-  identifier: rechner-struktur
-  parent: notes
-  weight: 602
-- name: Telematics
-  url: notes/telematics
-  identifier: telematics
-  parent: notes
-  weight: 603
-- name: MMWAB
-  url: notes/mmwab
-  identifier: mmwab
-  parent: notes
-  weight: 604
-- name: Thesis
-  url: notes/thesis
-  identifier: thesis
-  parent: notes
-  weight: 605
-- name: Jobs
-  url: notes/jobs
-  identifier: jobs
-  parent: notes
-  weight: 606
-- name: SI
-  url: notes/stochastische_informationsverarbeitung
-  identifier: si
-  parent: notes
-  weight: 607
+  
+# - name: "\U0001F4DD Notes"
+#   url: docs/notes/
+#   identifier: notes
+#   weight: 600
+# - name: GIE
+#   url: docs/notes/gestaltungsgrundsaetze-fuer-interaktive-echtzeitsysteme
+#   identifier: gestaltungsgrundsaetze-fuer-interaktive-echtzeitsysteme
+#   parent: notes
+#   weight: 601
+# - name: Rechnerstruktur
+#   url: docs/notes/rechner-struktur
+#   identifier: rechner-struktur
+#   parent: notes
+#   weight: 602
+# - name: Telematics
+#   url: docs/notes/telematics
+#   identifier: telematics
+#   parent: notes
+#   weight: 603
+# - name: MMWAB
+#   url: docs/notes/mmwab
+#   identifier: mmwab
+#   parent: notes
+#   weight: 604
+# - name: Thesis
+#   url: docs/notes/thesis
+#   identifier: thesis
+#   parent: notes
+#   weight: 605
+# - name: Jobs
+#   url: docs/notes/jobs
+#   identifier: jobs
+#   parent: notes
+#   weight: 606
+# - name: SI
+#   url: docs/notes/stochastische_informationsverarbeitung
+#   identifier: si
+#   parent: notes
+#   weight: 607
 # - name: "\U0001F468\u200D\U0001F3EB Online Courses"
 #   url: online_courses/
 #   identifier: online-courses
@@ -170,3 +174,14 @@ main:
   url: uploads/resume.pdf
   identifier: resume
   weight: 800
+
+# - name: "docs"
+#   url: docs
+#   identifier: docs
+#   weight: 900
+
+# - name: "Guide"
+#   url: docs/guide
+#   identifier: guide
+#   parent: docs
+#   weight: 901
