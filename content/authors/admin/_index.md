@@ -150,7 +150,9 @@ skills:
     
 
 languages:
-  - name: 🇨🇳 Chinese & Cantonese
+  - name: 🇨🇳 Chinese 
+    percent: 100
+  - name: 🇨🇳 Cantonese
     percent: 100
   - name: 🇺🇸 English
     percent: 80
