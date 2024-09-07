@@ -113,13 +113,13 @@ A project manager adds value to a project when they break down barriers, allow t
 
 ### Responsibilities
 
-{{< spoiler text="**Planning and organizing**" >}}
+{{< spoiler text="Planning and organizing" >}}
   - Make use of productivity tools and creating processes
   - Create plans, timelines, schedules, and other forms of documentation to track project completion, and maintain those documents throughout the entirety of the project.
 
 {{< /spoiler >}} 
 
-{{< spoiler text="**Managing tasks**" >}}
+{{< spoiler text="Managing tasks" >}}
 - A  **project task** is an activity that needs to be accomplished within a set period of time by you, your team, or your stakeholders.
 - Keep track of tasks
   - Help manage the team's workload and ensure that things are getting done
@@ -128,7 +128,7 @@ A project manager adds value to a project when they break down barriers, allow t
 {{< /spoiler >}}
 
 
-{{< spoiler text="**Budgeting and controlling costs and other factors**" >}}
+{{< spoiler text="Budgeting and controlling costs and other factors" >}}
 - Monitor and manage the budget
 - Track issues and risks
 - Manage quality
@@ -145,7 +145,7 @@ Depending on the project and organization, you may also have responsibilities th
 
 ![截屏2024-08-24 19.41.11](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2024-08-24%2019.41.11-20240824194753283.png)
 
-{{< spoiler text="**Teaching and mentoring**" >}}
+{{< spoiler text="Teaching and mentoring" >}}
 - Involves supporting each individual on your team in meeting expectations and helping them to exceed their own sense of personal potential
 - Taking the time to fully explain the expectations can eliminate rework, confusion, and frustration
 - Allow your team to make better choices and build on your experience
@@ -199,7 +199,7 @@ A **cross-functional team** includes team members who have different backgrounds
 
 Ideas of Working with cross-functional teams:
 
-{{< spoiler text="**Clarify goals**" >}}
+{{< spoiler text="Clarify goals" >}}
 
 - Ensure that each member of the team understands their role, how they support each other, and the common goals of the project
   - Set clear goals for the team and make sure that the team understands those goals
@@ -210,11 +210,11 @@ Ideas of Working with cross-functional teams:
 
 {{< /spoiler >}}
 
-{{< spoiler text="**Get team members with the right skills**" >}}
+{{< spoiler text="Get team members with the right skills" >}}
 
 {{< /spoiler >}}
 
-{{< spoiler text="**Measure progress**" >}}
+{{< spoiler text="Measure progress" >}}
 
 - This helps everyone see the full picture and recognize their impact on the project, and keeps them motivated
 - Ways to measure progress
@@ -227,7 +227,7 @@ Ideas of Working with cross-functional teams:
 
 {{< /spoiler >}}
 
-{{< spoiler text="**Recognize efforts**" >}}
+{{< spoiler text="Recognize efforts" >}}
 
 - Make sure that each member of your cross-functional team recognizes the value of their efforts each step of the way
 - Learning what makes your team members feel supported, giving and taking feedback, and being mindful of each individual's background, personal identifiers, and work style can help mediate some of the differences among team members. 
@@ -238,7 +238,7 @@ Ideas of Working with cross-functional teams:
 
 ### Core skills
 
-{{< spoiler text="**Enabling decision-making**" >}}
+{{< spoiler text="Enabling decision-making" >}}
 
 - Make the decision-making process collaborative $\rightarrow$ Help team members feel empowered from the start of the project
 - Empowering your team to express their opinions and make their own decisions
@@ -247,14 +247,14 @@ Ideas of Working with cross-functional teams:
 
 {{< /spoiler >}}
 
-{{< spoiler text="**Communicating and escalating**" >}}
+{{< spoiler text="Communicating and escalating" >}}
 
 - Knowing how to effectively communicate and when to escalate issues to management is key to keeping you, your team, and your organization on the path to success.
 - When escalation is required, try to approach management with both the problem and the potential solution or suggestions. 
 
 {{< /spoiler >}}
 
-{{< spoiler text="**Flexibility**" >}}
+{{< spoiler text="Flexibility" >}}
 
 - **Assess external constraints**
   - Take external events into account (such as national holidays and team member vacations and sick leave)
@@ -267,7 +267,7 @@ Ideas of Working with cross-functional teams:
 
 {{< /spoiler >}}
 
-{{< spoiler text="**Strong organizational skills**" >}}
+{{< spoiler text="Strong organizational skills" >}}
 
 - Stay organized through efficient tracking and communications by utilizing the abundance of organizational tools available
   - Planning and scheduling software (templates, workflows, calendars)
@@ -277,7 +277,7 @@ Ideas of Working with cross-functional teams:
 
 {{< /spoiler >}}
 
-{{< spoiler text="**Handling ambiguity**" >}}
+{{< spoiler text="Handling ambiguity" >}}
 
 - **Keep calm**
 - **Express empathy**
@@ -296,7 +296,7 @@ Using your **interpersonal skills** is key to building relationships with the pe
 - Learn about the need and concerns of the team
 - Help you determine the priorities of the project and motivate your team throughout the process
 
-This is called **influencing without authority **- a project manager's ability to guide teammates to complete their assigned work without acting as their direct managers.
+This is called **influencing without authority** - a project manager's ability to guide teammates to complete their assigned work without acting as their direct managers.
 
 {{< spoiler text="Example" >}}
 
