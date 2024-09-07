@@ -9,7 +9,7 @@ weight: 202
 title: Define Project Goals Scope Success-criteria
 date: 2024-07-19
 draft: false
-# page type
+
 authors:
   - admin
 tags:

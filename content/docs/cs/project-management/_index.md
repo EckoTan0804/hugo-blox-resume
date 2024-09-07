@@ -1,6 +1,6 @@
 ---
 # ===== Title, summary, and position in the left sidebar =====
-linktitle:  # Title shown in the left sidebar menu
+# linktitle:  # Title shown in the left sidebar menu
 summary:  # Summary of this post
 weight: 503
 # ============================================================
@@ -9,7 +9,7 @@ weight: 503
 title: Project Management
 date: 2022-11-29
 draft: false
-# page type
+
 authors:
   - admin
 tags:

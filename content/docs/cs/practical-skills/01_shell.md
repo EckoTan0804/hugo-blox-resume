@@ -9,7 +9,7 @@ weight: 01
 title: Shell
 date: 2023-03-11
 draft: false
-# page type
+
 authors:
   - admin
 tags:

@@ -9,7 +9,7 @@ weight: 600
 title: Capstone
 date: 2024-07-19
 draft: false
-# page type
+
 authors:
   - admin
 tags:

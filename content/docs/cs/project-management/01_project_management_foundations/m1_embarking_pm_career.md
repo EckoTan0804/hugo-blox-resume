@@ -9,7 +9,7 @@ weight: 101
 title: Embarking on a Career in Project Management
 date: 2024-07-28
 draft: false
-# page type
+
 authors:
   - admin
 tags:

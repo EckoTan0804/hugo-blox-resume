@@ -9,7 +9,7 @@ weight: 402
 title: Quality Management And Continuous Improvement
 date: 2024-07-19
 draft: false
-# page type
+
 authors:
   - admin
 tags:

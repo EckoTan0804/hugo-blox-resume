@@ -9,7 +9,7 @@ weight: 303
 title: Customization Techniques
 date: 2023-01-06
 draft: false
-# page type
+
 authors:
   - admin
 tags:

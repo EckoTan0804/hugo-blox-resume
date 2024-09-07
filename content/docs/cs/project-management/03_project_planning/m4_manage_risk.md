@@ -9,7 +9,7 @@ weight: 304
 title: Manage Risk
 date: 2024-07-19
 draft: false
-# page type
+
 authors:
   - admin
 tags:

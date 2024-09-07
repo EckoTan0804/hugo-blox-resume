@@ -9,7 +9,7 @@ weight: 504
 title: Apply Agile
 date: 2024-07-19
 draft: false
-# page type
+
 authors:
   - admin
 tags:

@@ -9,7 +9,7 @@ weight: 203
 title: Work Effectively With Stakeholders
 date: 2024-07-19
 draft: false
-# page type
+
 authors:
   - admin
 tags:

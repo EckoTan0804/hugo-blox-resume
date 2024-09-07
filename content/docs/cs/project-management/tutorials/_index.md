@@ -9,7 +9,7 @@ weight: 10
 title: Tutorials
 date: 2022-11-29
 draft: false
-# page type
+
 authors:
   - admin
 tags:

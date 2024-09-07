@@ -9,7 +9,7 @@ weight: 201
 title: Project Init Foundamentals
 date: 2024-07-19
 draft: false
-# page type
+
 authors:
   - admin
 tags:

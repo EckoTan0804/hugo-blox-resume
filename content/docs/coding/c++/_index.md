@@ -9,7 +9,7 @@ weight: 405
 title: C++
 date: 2024-08-23
 draft: false
-# page type
+
 authors:
     - admin
 tags:

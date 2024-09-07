@@ -9,7 +9,7 @@ weight: 302
 title: Actions Usage
 date: 2023-01-05
 draft: false
-# page type
+
 authors:
   - admin
 tags:

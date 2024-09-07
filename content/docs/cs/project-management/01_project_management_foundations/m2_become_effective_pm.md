@@ -9,7 +9,7 @@ weight: 102
 title: Become Effective Project Manager
 date: 2024-08-24
 draft: false
-# page type
+
 authors:
   - admin
 tags:

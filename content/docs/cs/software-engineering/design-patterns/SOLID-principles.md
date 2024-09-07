@@ -8,7 +8,7 @@ weight: 110
 title: "SOLID Principles"
 date: 2020-11-06
 draft: false
-# page type
+
 authors: ["admin"]
 tags: ["Software Engineering", "Design Pattern"]
 categories: ["Software Engineering"]

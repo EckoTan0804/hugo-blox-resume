@@ -9,7 +9,7 @@ weight: 504
 title: Practical Skills
 date: 2023-03-04
 draft: false
-# page type
+
 authors:
   - admin
 tags:

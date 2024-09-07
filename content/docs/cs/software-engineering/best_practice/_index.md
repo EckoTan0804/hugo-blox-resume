@@ -9,7 +9,7 @@ weight: 400
 title: Best Practice
 date: 2022-05-11
 draft: false
-# page type
+
 authors:
   - admin
 tags:

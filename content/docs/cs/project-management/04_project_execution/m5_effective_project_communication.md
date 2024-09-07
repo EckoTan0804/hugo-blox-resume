@@ -9,7 +9,7 @@ weight: 405
 title: Effective Project Communication
 date: 2024-07-19
 draft: false
-# page type
+
 authors:
   - admin
 tags:

@@ -9,7 +9,7 @@ weight: 303
 title: Manage Budget Procurement
 date: 2024-07-19
 draft: false
-# page type
+
 authors:
   - admin
 tags:

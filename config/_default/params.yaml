@@ -70,7 +70,7 @@ features:
       - python
       - markdown
       - bash
-      - r
+      - shell
       - latex
       - yaml
     theme: "dracula"

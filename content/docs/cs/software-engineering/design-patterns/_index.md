@@ -9,7 +9,7 @@ weight: 100
 title: Design Patterns
 date: 2020-11-06
 draft: false
-# page type
+
 authors: ["admin"]
 tags: ["Software Engineering", "Design Pattern"]
 categories: ["Software Engineering"]

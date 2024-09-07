@@ -8,7 +8,7 @@ weight: 210
 title: "Clean Code"
 date: 2020-11-06
 draft: false
-# page type
+
 authors: ["admin"]
 tags: ["Software Engineering", "Lecture"]
 categories: ["Software Engineering"]

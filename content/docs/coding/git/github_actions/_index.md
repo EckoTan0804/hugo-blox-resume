@@ -9,7 +9,7 @@ weight: 300
 title: GitHub Actions
 date: 2023-01-05
 draft: false
-# page type
+
 authors:
   - admin
 tags:

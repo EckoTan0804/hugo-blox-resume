@@ -9,7 +9,7 @@ weight: 110
 title: Project Management Basics
 date: 2022-11-29
 draft: false
-# page type
+
 authors:
   - admin
 tags:

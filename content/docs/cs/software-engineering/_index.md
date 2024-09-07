@@ -9,7 +9,7 @@ weight: 502
 title: Software Engineering
 date: 2020-11-13
 draft: false
-# page type
+
 authors: 
 - admin
 tags: 

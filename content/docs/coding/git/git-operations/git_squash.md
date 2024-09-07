@@ -9,7 +9,7 @@ weight: 101
 title: Git Squashing
 date: 2022-04-29
 draft: false
-# page type
+
 authors:
   - admin
 tags:

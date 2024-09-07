@@ -9,7 +9,7 @@ weight: 301
 title: Getting Started
 date: 2023-01-05
 draft: false
-# page type
+
 authors:
   - admin
 tags:

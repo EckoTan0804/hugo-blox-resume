@@ -9,7 +9,7 @@ weight: 404
 title: Leadership And Influencing Skills
 date: 2024-07-19
 draft: false
-# page type
+
 authors:
   - admin
 tags:
