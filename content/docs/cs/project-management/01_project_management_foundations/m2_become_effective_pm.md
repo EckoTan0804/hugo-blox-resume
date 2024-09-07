@@ -35,6 +35,47 @@ header:
     image:  
 ---
 
+```markmap {height="800px"}
+- Effective Project Manager
+	- Value
+		- Tasks prioritization
+		- Tasks delegation
+		- Communication
+    - Impact organization
+    	- Focus on customers
+    	- Build a great team
+    	- Forster relationships and communication
+    	- Manage project
+    	- Break down barriers
+    - Responsibilities
+    	- Planning and organizing
+		- Managing tasks
+		- Budgeting and controlling costs and other factors
+		- Teaching and mentoring
+		- Building relationships
+		- Controlling change
+		- Empowering your team
+		- Communicating status and concerns
+    - Roles
+    - Working with cross-functional teams
+    	- Clarify goals
+    	- Get Get team members with the right skills
+		- Measure progress
+		- Recognize efforts
+    - Core skills
+    	- Enabling decision-making
+		- Communicating and escalating
+		- Flexibility
+		- Strong organizational skills
+		- Handling ambiguity
+    - Interpersonal skills
+    	- Communication
+		- Negotiation
+		- Conflict mediation
+		- Understanding motivations
+
+```
+
 ## How a Project Manager Adds Value
 
 ### Value of a project manager
