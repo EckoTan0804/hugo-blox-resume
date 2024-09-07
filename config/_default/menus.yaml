@@ -112,12 +112,12 @@ main:
   parent: cs
   weight: 502
 - name: Project Management
-  url: docs/cs/project_management
+  url: docs/cs/project-management
   identifier: project-management
   parent: cs
   weight: 503
 - name: Practical Skills
-  url: docs/cs/practical_skills
+  url: docs/cs/practical-skills
   identifier: practical-skills
   parent: cs
   weight: 504
@@ -161,6 +161,7 @@ main:
 #   identifier: si
 #   parent: notes
 #   weight: 607
+
 # - name: "\U0001F468\u200D\U0001F3EB Online Courses"
 #   url: online_courses/
 #   identifier: online-courses
@@ -170,18 +171,8 @@ main:
 #   identifier: aws-ML-engineer
 #   parent: online-courses
 #   weight: 701
+
 - name: "\U0001F9FE R\xE9sum\xE9"
   url: uploads/resume.pdf
   identifier: resume
   weight: 800
-
-# - name: "docs"
-#   url: docs
-#   identifier: docs
-#   weight: 900
-
-# - name: "Guide"
-#   url: docs/guide
-#   identifier: guide
-#   parent: docs
-#   weight: 901

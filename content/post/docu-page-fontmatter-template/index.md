@@ -54,7 +54,7 @@ weight:  # Order in the chapter
 title: 
 date: 
 draft: false
-type: book 
+
 authors: 
   - admin
 tags: 
