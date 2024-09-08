@@ -1,6 +1,6 @@
 ---
 # ===== Title, summary, and position in the left sidebar =====
-linktitle:   # Title shown in the left sidebar menu
+# linktitle:   # Title shown in the left sidebar menu
 summary:  # Summary of this post
 weight: 105 # Position in the left sidebar
 # ============================================================
@@ -18,7 +18,7 @@ categories:
 toc: true # Show table of contents
 # ====================================
 
-# ========== Advanced metadata =========
+# # ========== Advanced metadata =========
 profile: false  # Show author profile?
 reading_time: true # Show estimated reading time?
 share: true  # Show social sharing links?
