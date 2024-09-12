@@ -34,3 +34,13 @@ header:
     caption: 
     image:  
 ---
+
+![截屏2024-09-09 22.46.52](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2024-09-09%2022.46.52.png)
+
+Learning goals
+
+- Overview of initiating the project
+- Identifying individual components of initiation: project scope, goals, and deliverables
+- Measure the success of a project
+- Identifying stakeholders
+- Scoping project tools and resources
