@@ -35,7 +35,7 @@ header:
     image:  
 ---
 
-```markmap {height="800px"}
+```markmap {height="600px"}
 - Effective Project Manager
 	- Value
 		- Tasks prioritization

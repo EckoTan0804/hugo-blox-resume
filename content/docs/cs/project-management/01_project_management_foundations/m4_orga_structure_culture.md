@@ -35,7 +35,7 @@ header:
     image:  
 ---
 
-```markmap {height="800px"}
+```markmap {height="600px"}
 - **Organizational structure**
 	- Types
 		- Classic (top-down)
