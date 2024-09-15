@@ -35,6 +35,25 @@ header:
     image:  
 ---
 
+```markmap {height="400px"}
+- Identify project goals
+	- Goal
+		- SMART goal
+			- Specific
+			- Measurable
+			- Attainable
+			- Relevant
+			- Time-bounded
+		- Objective + Key Results (OKR)
+			- level
+				- Company / Organization
+				- Department / Team
+				- Project
+	- Deliverable
+
+- Define project scope
+```
+
 ## Identifying Project Goals
 
 ### Determing project goals and deliverables
@@ -374,8 +393,209 @@ Here is some additional information about the project:
 
 {{< /spoiler >}}
 
+## Defining Project Scope
 
-## Define Project Scope
+### What is a project scope?
+
+Project scope includes the <u>**boundaries**</u> of a project, *"an agreed upon understanding as to what is included or excluded from a project."*
+
+- Scope helps ensure that your project is clearly defined and mapped out 
+  - Who the project will be delivered to and who will be using the end result of the project
+  - Project's complexity
+- Scope includes the project timeline, budget, and resources.
+- You define the scope to help identify necessary resources, resource costs, and a schedule for the project. 
+
+{{< spoiler text="Helpful questions to ask when defining project scope" >}}
+
+- Where did the project come from? 
+- Why is it needed? 
+- What is the project expected to achieve? 
+- What does the project sponsor have in mind? 
+- Who approves the final results? 
+
+{{< /spoiler >}}
+
+Once you understand your project scope, you want to document all the details so that anyone can refer back to it throughout the life cycle of the project.
+
+### Gathering information to define scope
+
+Example: Imagine that while working in a restaurant management group, your manager calls and asks you to “update the dining space,” then quickly hangs up the phone without providing further instruction.
+
+Here are some questions you might ask your manager in order to get the information you need to define the scope of the project:
+
+{{< spoiler text="Stakeholders" >}}
+
+- How did you arrive at the decision to update the dining space? 
+- Did the request originate from the restaurant owner, customers, or other stakeholders? 
+- Who will approve the scope for the project? 
+
+{{< /spoiler >}}
+
+{{< spoiler text="Goal" >}}
+
+- What is the reason for updating the dining space? 
+- What isn't working in the current dining space? 
+- What is the end goal of this project? 
+
+{{< /spoiler >}}
+
+{{< spoiler text="Deliverables" >}}
+
+- Which dining space is being updated? 
+- What exactly needs to be updated? 
+- Does the dining space need a remodel? 
+
+{{< /spoiler >}}
+
+{{< spoiler text="Resources" >}}
+
+- What materials, equipment, and people will be needed? 
+- Will we need to hire contractors? 
+- Will we need to attain a floor plan and building permits? 
+
+{{< /spoiler >}}
+
+{{< spoiler text="Budget" >}}
+
+- What is the budget for this project? Is it fixed or flexible? 
+
+{{< /spoiler >}}
+
+{{< spoiler text="Schedule" >}}
+
+- How much time do we have to complete the project? 
+- When does the project need to be completed? 
+
+{{< /spoiler >}}
+
+{{< spoiler text="Flexibility" >}}
+
+- How much flexibility is there? 
+- What is the highest priority: hitting the deadline, sticking to the budget, or making sure the result meets all the quality targets? 
+
+{{< /spoiler >}}
+
+{{% callout  note %}}
+
+Taking the time to ask questions and ensure that you understand the scope of the project will help reduce expenses, rework, frustration, and confusion. Make sure you understand the ***who*, *what*, *when*, *where*, *why*, and *how*** as it applies to the scope.
+
+{{% /callout %}}
+
+### Monitoring and maintaining a project's scope
+
+Task
+
+- **<u>In-scope</u>**: Tasks that are included in the project and contribute to the project's overall goal
+
+- **<u>Out-of-scope</u>**: Tasks that are *NOT* included in the project and *do NOT* contribute to the project's overall goal
+
+It's project manager's job to set and maintain firm boundaries for your project so that your team can stay on track.
+
+#### Scope creep
+
+<mark>Scope creep</mark>: Changes, growth, and uncontrolled factors that affect a project scope at any point after the project begins 
+
+- A common problem, and it's not always easy to control
+- Can happen on any project, in any industry
+- It can put stress on you, your team, and your organization. It can put your project at risk -- can hinder every aspect of the project, from the schedule to the budget to the resources, and ultimately, its overall success. 
+
+Sources
+
+- External
+
+  - Customer requests
+  - Environment shifts
+  - Changes in technology
+
+  **Solutions**
+
+  - Make project plans visible
+    - Make sure the stakeholders have visibility into the project: details of what's going to be produced, what resources are required, how much it will cost, and how much time it'll take, etc. 
+  - Get clarity on project requirements and ask for constructive criticism of the initial product proposal
+  - Set ground rules and expectations for stakeholder involvement
+  - Create a plan for dealing with out-of-scope requests
+  - Put your agreements and plans in writing
+
+- Internal
+
+  - Product improvements
+  - Processes chagnes
+
+### Strategies for controlling scope creep
+
+{{< spoiler text="Define your project’s requirements" >}}
+
+Communicate with your stakeholders or customers to find out exactly what they want from the project and document those requirements during the initiation phase. 
+
+{{< /spoiler >}}
+
+{{< spoiler text="Set a clear project schedule" >}}
+
+Time and task management are essential for sticking to your project’s scope. Your schedule should outline all of your project’s requirements and the tasks that are necessary to achieve them.
+
+{{< /spoiler >}}
+
+{{< spoiler text="Determine what is out of scope" >}}
+
+Make sure your stakeholders, customers, and project team understand when proposed changes are out of scope. Come to a clear agreement about the potential impacts to the project and document your agreement. 
+
+{{< /spoiler >}}
+
+{{< spoiler text="Provide alternatives" >}}
+
+Suggest alternative solutions to your customer or stakeholder. You can also help them consider how their proposed changes might create additional risks. Perform a cost-benefit analysis, if necessary.
+
+{{< /spoiler >}}
+
+{{< spoiler text="Set up a change control process" >}}
+
+During the course of your project, some changes are inevitable. Determine the process for how each change will be defined, reviewed, and approved (or rejected) before you add it to your project plan. Make sure your project team is aware of this process.
+
+{{< /spoiler >}}
+
+{{< spoiler text="Learn how to say no" >}}
+
+Sometimes you will have to say no to proposed changes. Saying no to a key stakeholder or customer can be uncomfortable, but it can be necessary to protect your project’s scope and its overall quality. If you are asked to take on additional tasks, explain how they will interfere with the budget, timeline, and/or resources defined in your initial project requirements. 
+
+{{< /spoiler >}}
+
+{{< spoiler text="Collect costs for out-of-scope work" >}}
+
+If out-of-scope work is required, be sure to document all costs incurred. That includes costs for work indirectly impacted by the increased scope. Be sure to indicate what the charges are for. 
+
+{{< /spoiler >}}
+
+### Managing changes to a project's scope
+
+While your project will have its own specific goals, the overall goal for you as the project manager is to deliver the project according to the scope agreements, which includes delivering the project within the given deadline and the approved budget. 
+
+To decide if a scope change is acceptable and what impact it will have, project managers usually refer to the **triple constraint model**. 
+
+![截屏2024-09-15 15.10.03](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2024-09-15%2015.10.03.png)
+
+- Time: Project schedule and deadlines
+- Cost
+  - Budget
+  - Resources and the people who will work on the project
+
+Both time and budget have to be carefully managed alongside scope. 
+
+All three of these are linked. Changing one will have impact on the others.
+
+-> It's important to consider what trade-offs you're willing to make as the project progresses.
+
+- You need a clear understanding of the project priorities. 
+
+- You have to know what is most important when it comes to scope, time, and cost.
+
+{{% callout  note %}}
+
+For further reading on utilizing the triple constraint model in real-life scenarios as a project manager and how the triple constraint model has evolved over time, check this article: [
+A Project Management Triple Constraint Example & Guide](https://thedigitalprojectmanager.com/triple-constraint/).
+
+{{% /callout %}}
+
+
 
 
 
