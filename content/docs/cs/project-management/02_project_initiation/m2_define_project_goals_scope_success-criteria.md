@@ -52,6 +52,16 @@ header:
 	- Deliverable
 
 - Define project scope
+	- Gather information to define
+	- Monitor and maintain project scope
+		- Control scope creep
+    - Manage changes to scope: Triple constraint model
+    
+- Measuring a project's success
+	- Launching vs. Landing
+	- Define success criteria
+	- Track and communicate with success criteria
+	- Use OKRs to evaluate progress
 ```
 
 ## Identifying Project Goals
@@ -595,8 +605,131 @@ A Project Management Triple Constraint Example & Guide](https://thedigitalprojec
 
 {{% /callout %}}
 
-
-
-
-
 ## Measuring a Project's Success
+
+### Lauching and landing a project
+
+<mark>**Launch**</mark>: Delivering the final result of the project to the client or user.
+
+<mark>**Landing**</mark>: Measuring the success of project using the success criteria established at the outset of the project.
+
+- It's important to define what a successful landing looks like for a particular project.
+- A way to measure and help you ensure the success of your project is called <u>**success criteria**</u>
+  - Include all the specific details of your goals and deliverables, and it can be a guide so you know whether you've accomplished what you set out to do
+  - Set standards for how your project will be judged
+
+{{< spoiler text="Example: Lauching vs. Landing" >}}
+
+Imagine you are a project manager for an eco-friendly organization. Your organization asks you to create a training program for middle school students in your county to teach them about the impacts of recycling. **The county's goal is to increase recycling by 20% over the next five years.** You gather your team and start developing the learning content to build out this training program. It takes you and your team one year to complete the research, development, and production of this training.
+
+When you hand over the training to the school district, you are **<u>launching</u>** the project. 
+
+In order to know your project actually **<u>lands</u>** at the intended goal, you need to check back in periodically over the next five years to see if the training program is on target to produce a 20% increase in recycling in the county. 
+
+{{< /spoiler >}}
+
+### Defining success criteria
+
+Success criteria
+
+- Tells you whether or not the project was successful
+- Specific details of project goals, deliverables, requirements, and expectations
+- The standards by which the project will be judged once it's been delivered to stakeholders
+
+Key points to determine success criteria
+
+- Go through your project goals and deliverables, review the scope, and identify the measurable aspects of the project
+
+- Get clarity from stakeholders on the project requirements and expectations
+
+  - Who ultimately says whether or not the project is successful? 
+  - What criteria will be measured to determine success? 
+  - What's the success of this project based on?
+
+  Once you've collected clarifying information, document and share all of it so that you, your team, and your stakeholders can refer to it later.
+
+Once you've defined the metrics that you'll be measuring as success criteria, think about how you track these metrics
+
+- Evaluate which **tools** can help you collect the data you need to ensure you're staying on track
+
+- Along with each success criteria on your list, include also 
+
+  - the methods for how success will be measured
+
+  - how often it's measured
+  - who's responsible for measuring it
+
+  Share your success criteria document with your stakeholders and ask if they agree with how the project's success will be determined.
+
+- It's also a good idea to have the appropriate stakeholders sign off on the success criteria. 
+- Keep this documentation visible throughout the duration of the project and clearly communicate it with your team every step of the way.
+
+If done correctly, defining success criteria should create greater alignment within the team and give everybody better visibility into how to achieve success. 
+
+### Tracking and communicating success criteria
+
+#### Prodcut quality
+
+The product attributes that are necessary for the product’s success include completeness in features, quality of features, unit cost, usability, etc
+
+To keep us on track for success, we can create a list of product requirements to ensure that you do not miss anything. To measure the success of a product, consider including these metrics on your checklist: 
+
+- Track if you implemented the product’s priority requirements
+- Track and assess the product’s number of technical issues or defects
+- Measure the percentage of features you delivered or released at the end of the project
+
+#### Consider customers and stakeholders
+
+You can measure the fulfillment of strategic goals via user or customer metrics. Metrics to consider include:
+
+- Evaluating user engagement with the product 
+- Measuring stakeholder and customer satisfaction via surveys
+- Tracking user adoption of the product by using sales data
+
+#### Document, align, and communicate success
+
+You need to get clarity from stakeholders on the project requirements and expectations
+
+- Who ultimately says whether or not the project is successful? 
+- What criteria will be measured to determine success? 
+- What is the success of this project based on?
+- ...
+
+It is best practice to get the key stakeholders or the steering committee to review and approve your success criteria. This becomes a mutual agreement on how all parties define the success of the project. 
+
+{{< spoiler text="Success criteria template" >}}
+
+![截屏2024-09-15 23.42.06](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2024-09-15%2023.42.06.png)
+
+{{< /spoiler >}}
+
+### Use OKRs to evaluate progress
+
+- **Communicating and tracking OKRs**
+
+  Conducting regular check-ins and actively tracking progress with your team can help ensure that objectives are being met and that any issues are resolved as soon as possible. 
+
+  - **Share your OKRs with your team** by sharing a digital document, presenting them in a meeting, or adding them to an internal website.
+  - **Assign owners.** 
+    Assign an owner to every key result so that everybody knows who’s responsible for what. This helps add clarity and increases accountability.
+
+- **Measuring process**
+  - One shortcut to determining the status of a project is to score or grade your OKRs.
+- **Determine how you will score your OKRs**
+  - The simplest approach to scoring OKRs is the **“yes/no” method**, with “yes” meaning you achieved your objective and “no” meaning you didn’t. 
+  - A more advanced scoring approach is to grade your key results on a **scale**. 
+
+- **Set your scoring expectations**
+  - For OKRs graded according to percentage achieved, the sweet spot is somewhere in the 60–70% range.
+  - Scoring lower may mean the team is not achieving what it could be. Scoring higher may mean the aspirational goals are not being set high enough. 
+- **Schedule checkpoints**
+  - It’s important to regularly communicate the status of project OKRs with your team and senior managers.
+  - Typically, at the end of the quarter, you’ll grade each of your OKRs to evaluate how well the team did to achieve its goals.
+
+
+{{< spoiler text="OKR scorecard template" >}}
+
+![截屏2024-09-15 23.59.43](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2024-09-15%2023.59.43.png)
+
+
+{{< /spoiler >}}
