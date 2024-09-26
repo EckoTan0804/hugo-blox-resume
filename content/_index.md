@@ -93,7 +93,7 @@ sections:
   - block: awards
     id: awards
     content:
-      title: 'Accomlishments'
+      title: 'Accomplishments'
 
   - block: languages
     id: languages

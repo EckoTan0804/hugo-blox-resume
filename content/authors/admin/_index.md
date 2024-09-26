@@ -150,13 +150,13 @@ skills:
     
 
 languages:
-  - name: 🇨🇳 Chinese 
+  - name: Chinese 
     percent: 100
-  - name: 🇨🇳 Cantonese
+  - name: Cantonese
     percent: 100
-  - name: 🇺🇸 English
+  - name: English
     percent: 80
-  - name: 🇩🇪 German
+  - name: German
     percent: 80
 
 # Awards.
