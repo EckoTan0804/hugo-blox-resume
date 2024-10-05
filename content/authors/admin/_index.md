@@ -68,15 +68,15 @@ education:
     date_start: 2019-05-30
     date_end: 2022-09-30
     summary: |
-      Focus: Artificial Intelligence (AI)
-      GPA: 1.7/1.0 (German Grading System)
+      - Focus: Artificial Intelligence (AI)
+      - GPA: 1.7/1.0 (German Grading System)
 
   - area: BSc Computer Science
     institution: Karlsruhe Institute of Technology (KIT)
     date_start: 2014-10-15
     date_end: 2019-05-30
     summary: |
-      Focus: Robotics and Automation, Software Engineering
+      - Focus: Robotics and Automation, Software Engineering
 
 work:
   - position: Software Concept Developer / Innovation Manager for Algorithms
