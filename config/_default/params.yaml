@@ -38,7 +38,7 @@ header:
     highlight_active_link: true  # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
     logo:
       text: "Haobin Tan"
-      filename: "icon.jpg"  # Logo filename in `assets/media/` folder
+      # filename: "icon.jpg"  # Logo filename in `assets/media/` folder
 
     # Shop a call-to-action button in the top right?
     button:
