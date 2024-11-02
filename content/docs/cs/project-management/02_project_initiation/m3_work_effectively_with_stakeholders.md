@@ -273,3 +273,128 @@ Important things to keep in mind when communicating with stakeholders
 
 
 ## Assigning Project Team Roles and Responsibilities 
+
+### RACI chart
+
+A **RACI** chart can be an extremely effective way to define project roles, give direction to each team member and stakeholder, and ensure work gets done efficiently. Having a RACI chart available throughout the duration of your project as a quick visual can be invaluable.
+
+**RACI**
+
+- **R**esponsible: Those doing the work to complete the task
+- **A**ccountable: Those making sure the work gets done 
+- **C**onsulted: Those giving input or feedback (e.g., subject matter experts or decision makers)
+- **I**nformed: Those just needing to know the final decisions or that a task is done
+
+
+
+![截屏2024-11-01 21.54.30](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2024-11-01%2021.54.30.png)
+
+Steps for creating a RACI chart
+
+0. Write down each task or deliverable for your project, and assign it the appropriate role for each stakeholder.
+
+1. Think about who's involved in the project. Write the roles in a row across the top of the chart.
+
+2. Write down the tasks or deliverables in a column on the left (not too specific here, keep the chart simple and easy to read)
+
+3. Go through each task/deliverable and ask:
+
+   - Who's responsible for doing this? 
+   - Who's accountable if it doesn't get done? 
+   - Who will have strong opinions to add, and therefore, should be consulted about how this gets done? 
+   - Who needs to be informed of the progress or decisions made about this? 
+
+   Assign the letters R, A, C, and I based on your answers.
+
+{{< spoiler text="Example" >}}
+
+As a project manager on Office Green's new service launch, one of your tasks is to create different price points for different packages and delivery frequencies. 
+
+The Head of Finance will be ***accountable*** because the project needs to stay in budget and make money, but it's the Financial Analyst who's ***responsible***, as they're the person doing the work in determining optimal pricing. The Director of Product will be ***consulted*** on the matter as they oversee the product offerings. And finally, team members, like those on the sales team, need to be ***informed*** of the final pricing.
+
+{{< /spoiler >}}
+
+{{% callout  note %}}
+
+**Notice**
+
+- It's possible there are several roles that fall into the "informed" and "consulted" categories.
+- There will NEVER be more than one person designated as "accountable." This prevents confusion, because having one person accountable clearly defines ownership.
+- The same person that is "accountable" may also be "responsible."
+
+{{% /callout %}}
+
+### Building a RACI chart
+
+![截屏2024-11-01 22.08.52](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2024-11-01%2022.08.52-20241101220916143-20241101220929775.png)
+
+{{< spoiler text="Responsible" >}}
+
+- Individuals who are assigned the “responsible” role for a task are the ones who are *actually* doing the work to complete the task. 
+- Every task needs at least one responsible party. 
+- It’s a best practice to try to limit the number of team members assigned to a task’s  responsible role, but in some cases, you may have more than one. 
+- Ask yourself questions when determining which person or people should be placed in the responsible role for a given task
+
+  - What department does the work fall under?
+  - Who will perform the work?
+
+{{< /spoiler >}}
+
+{{< spoiler text="Accountable" >}}
+
+- The “accountable” person is responsible for making sure the task gets done. 
+- It is important to have **ONLY ONE** individual accountable for each task. -> This helps clarify ownership of the task. 
+- The accountable person ultimately has the authority to approve the deliverable of the responsible party. 
+- In order to determine who should be tagged as the accountable team member, consider:
+  - Who will delegate the task to be completed?
+  - Who will review the work to determine if the task is complete?
+- You may encounter a situation where the responsible party is also accountable, but where possible, it is helpful to separate these roles. 
+  - Ensuring that accountability is not shared ensures that there is no confusion on who the ownership belongs to.
+
+{{< /spoiler >}}
+
+{{< spoiler text="Consulted" >}}
+
+- Team members or stakeholders who are placed in the “consulted” role have useful information to help complete the task. 
+- There is no maximum or minimum number of people who can be assigned a “consulted” role, but it’s important that each person has a reason for being there.
+- A few ways you can help identify who is appropriate for the role:
+  - Who will the task impact?
+  - Who will have input or feedback for the responsible person to help the work be completed?
+  - Who are the subject matter experts (SMEs) for the task?
+- The consulted people will be in frequent, two-way communication with the responsible party, so it is key to make sure that the right people are in this role to help accomplish the task efficiently and correctly.
+
+{{< /spoiler >}}
+
+{{< spoiler text="Informed" >}}
+
+- Individuals who are identified as needing to be “informed” need to know the final decisions that were made and when a task is completed.
+- It is common to have many people assigned to this category and for some team members to be informed on most tasks
+- Make sure people who are in this group only require status updates and do not need to provide any direct feedback for the completion of the effort. 
+- Key questions to ask yourself in order to ensure that you have appropriately captured individuals in the “informed” role are:
+  - Who cares about this task’s completion?
+  - Who will be affected by the outcome?
+
+{{< /spoiler >}}
+
+{{% callout  info %}}
+Example
+
+As a project manager on Office Green's new service launch, one of your tasks is to create different price points for different packages and delivery frequencies. 
+
+- the Financial Analyst will complete the work for this task. Therefore, we will list “Financial Analyst” in the *<u>responsible</u>* role for this task in the RACI chart.
+
+- The Head of Finance has to make sure the project stays in budget and makes a profit, so they have the ultimate authority over the price points for the product. Therefore, they will need to approve the Financial Analyst’s work on the task (-> *<u>accountable</u>*). 
+
+- After we’ve got a “responsible” Financial Analyst and an “accountable” Head of Finance, we need to think about
+
+  - Who else would need to provide input on the product’s price points? 
+  - Whose decisions and feedback will directly affect the task?
+
+  The Director of Product will need to be <u>*consulted*</u> on the matter, as they oversee all product offerings. This person will have information about potential changes to the product and how these changes might affect price points.
+
+- Your Financial Analyst has set the price points with input from the Director of Product, and the Head of Finance has approved. You will now need to *<u>inform</u>* the Sales Team about the final price points, as they will need this information to sell the product. 
+
+![截屏2024-11-01 22.26.05](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2024-11-01%2022.26.05.png)
+
+{{% /callout %}}
+
