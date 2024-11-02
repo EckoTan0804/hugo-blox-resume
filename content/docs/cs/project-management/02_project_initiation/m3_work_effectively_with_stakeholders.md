@@ -35,6 +35,31 @@ header:
     image:  
 ---
 
+```markmap {height="400px"}
+- Working effectively with stakeholders
+	- Project team roles and responsibilities
+		- Choosing a project team
+			- Required roles
+			- Team size
+			- Necessary skills
+			- Availability
+			- Motivation
+		- Defining project roles
+			- Project sponsors
+			- Team members
+			- Customers / Users
+			- Stakeholders
+			- Project manager
+		- Evaluate stakeholders with stakeholder analysis 
+			- power grid visualization
+		- Assign project team roles and responsibilities with RACI chart
+			- Responsible
+			- Accountable
+			- Consulted
+			- Informed
+
+```
+
 <mark>**Stakeholders**</mark>: People who are insterested in and affected by the project's completion and success
 
 
@@ -398,3 +423,35 @@ As a project manager on Office Green's new service launch, one of your tasks is 
 
 {{% /callout %}}
 
+## Why Orojects Fail: Initiation Missteps
+
+But despite your best efforts in project setup, projects can still fail. We will explore a few key reasons why projects fail and examine how missteps during the initiation phase can lead to project failure. 
+
+### Unclear expectations
+
+Not taking the time at the beginning of a project to ask essential questions, document decisions, and understand the true scope of the project may lead to failure. After all, without directions, you can never reach your destination. 
+
+### Unrealistic expectations
+
+We all like to impress our managers, but sometimes, we accidentally agree to unrealistic expectations and set our projects up for failure from the start. It’s important to understand the requirements of a project before agreeing to any deadlines. 
+
+As a best practice, **don't commit to firm dates when initiating the project to avoid setting unrealistic expectations.** You will have more information and will be able to better manage expectations in the planning phase.
+
+### Miscommunication
+
+If information is not communicated in a timely manner, does not include pertinent information (risks, decisions made, scope changes, etc.), or is not sent to the correct stakeholders, then you may be setting yourself up for failure. Conducting a **stakeholder analysis** and then utilizing a **RACI chart** to understand which stakeholders should be kept informed or consulted is a great start to creating an effective communication strategy.
+
+As you are kicking off a project, make sure you take some time to understand the communication needs of your team and stakeholders. A strong communication system incorporates different methods (emails, phone conversation, etc.). Set expectations for your communication approach early so that you, your team members, and your stakeholders have a clear understanding of how you will all communicate.
+
+### Lack of resources
+
+Resources include your team members, budget, and materials.
+
+- Ensuring that the right team members are available at the right time is crucial.
+- Another common error is to incorrectly calculate your project expenses.
+
+### Scope creep 
+
+The scope provides an overarching framework of what is and is not included in the project’s work and deliverables. Defining the scope in the initiation phase helps identify the resources needed, the cost associated with those resources, and the schedule required to complete the work. Sometimes projects fail because the scope of the project grows and impacts to the scope are not captured. 
+
+As a project manager, when deliverables change, you have to make sure that you are capturing the potential impact of those changes to the schedule, budget, and quality. This is why it is so important to make sure that everything is documented in the initiation phase. Have a plan for how to handle scope creep if it occurs, and clarify who has the authority to approve scope changes.
