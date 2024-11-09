@@ -34,3 +34,13 @@ header:
     caption: 
     image:  
 ---
+
+
+
+![截屏2024-11-09 13.09.45](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2024-11-09%2013.09.45-20241109131047405.png)
+
+- Kicking off the planning phase
+- Setting and reaching milestones and identifying tasks
+- Budgeting process
+- Identifying and planning for risks
+- Documentation
