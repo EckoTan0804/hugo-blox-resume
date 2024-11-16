@@ -183,5 +183,109 @@ Once you've finalized the meeting agenda, document this information into a meeti
 
 ## Defining Tasks and Milestones
 
+### Understanding tasks andmilestones
 
+<mark>Milestone</mark>: An important point within the project schedule that indicates progress and usually signifies the completion of a deliverable or phase of the project.
 
+- Significant checkpoints in the project
+- Keeping track of them helps ensure that your project is on schedule to meet its goals
+
+<mark>Task</mark>: An activity that needs to be accomplished within a set period of time
+
+The work of a project is broken down into many different **tasks**. In order to reach a **milestone**, you and your team must complete multiple tasks.
+
+*Example: If a milestone is completing the first draft of a report, the tasks required to get to that milestone might include hiring a writer, conducting research, and drafting different sections of the report.* 
+
+### The importance of setting milestones
+
+ Setting milestones gives you a clear understanding of the amount of work your project will require.
+
+- The act of setting milestones forces you to break your project down into more manageable chunks. 
+- The further you go, the better you'll be able to see how much work will be needed to meet the project goals. 
+
+Milestones can help keep your project on track.
+
+- When you set a milestone, you assign clear deadlines for when certain project deliverables need to be completed. 
+- As you work through the execution phase, you can look back at these deadlines to make sure that the project is progressing at the right pace
+
+Milestones help you uncover areas where you might need to adjust scope, timelines, or resources to meet your goals.
+
+Reaching milestones can seriously motivate your team and illustrate real progress to your stakeholders
+
+- Milestones serve as a great check-in point to highlight your progress to stakeholders. It gives them the opportunity to see the work that's been completed so far and lets them see everything is on track and up to their standards.
+
+**Milestones must be completed on time and in sequential order.**
+
+### How to set milestones?
+
+1. Evaluate the project as a whole -> It helps to refer back to your project charter to remind yourself of the project goal.
+
+2. Make a list of what the team needs to do to achieve the goal
+
+   - The big items that indicate progress are your <u>milestones</u>, which are the key points within the project schedule that signify the completion of a project deliverable or a phase in the project.
+   - Smaller items, like any item that a stakeholder wouldn't need to review, for example, are <u>tasks</u>. You'll plan for these once you've separated them out from the milestones.
+
+3. Once you've determined your milestones, assign each one a deadline.
+
+   - To make sure you give your team a fair amount of time to complete each of those tasks, you'll need to space your milestones out accordingly. 
+   - To get a good sense of timing, you can connect with teammates to discuss the tasks required to reach each milestone and get their estimates for how long these tasks will take. 
+
+   - When determining deadlines for milestones, also consider the needs of the stakeholders.
+
+#### Best practices
+
+- **Set tasks to identify milestones**
+  - **Top-down scheduling**
+    The project manager lays out the higher-level milestones, then works to break down the effort into project tasks. The project manager works with their team to ensure that all tasks are captured.
+  - **Bottom-up scheduling**
+    The project manager looks at all of the individual tasks that need to be completed and then rolls those tasks into manageable chunks that lead to a milestone. 
+
+- **Integrate milestones into your project schedule**
+  Try to set milestones for the most important events in your project. Review your project schedule and identify important moments or checkpoints.
+
+{{% callout  warning %}}
+**Milestone-setting pitfalls**
+
+- **Don’t set too many milestones**. 
+  - When there are too many milestones, their importance is downplayed
+  - If milestones are too small or too specific, you may end up with too many, making the project look much bigger than it really is to your team and stakeholders. 
+- **Don’t mistake tasks for milestones**.
+  - Remember that milestones should represent moments in time, and in order to map out how you will get to those moments, you need to assign smaller tasks to each milestone.
+- **Don’t list your milestones and tasks separately.** 
+  - Make sure that tasks and milestones can be visualized together in one place, such as a project plan. This will help ensure that you are hitting your deadlines and milestones. 
+
+{{% /callout %}}
+
+### Creating a work breakdown structure
+
+<mark>Work Breakdown Structure (WBS)</mark>: A tool that sorts the milestones and tasks of a project in a hierarchy, in the order they need to be completed.
+
+- It helps break down the sometimes intimidating challenges of a project into more manageable chunks.
+
+One common way to create a WBS is to create a **tree diagram** of project tasks.
+
+Example
+
+![截屏2024-11-15 18.41.22](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2024-11-15%2018.41.22-20241116213008359.png)
+
+while creating a work breakdown structure is a helpful exercise for visualizing the tasks of the project, you would *NOT* typically include this type of diagram in your official project plan. Instead, you'd input the tasks identified through this exercise into a spreadsheet or your chosen work management software, where you can more easily assign owners to each task. 
+
+After completing a work breakdown structure, you should have
+
+- A set of discrete project tasks that ladder up to each of your milestones
+  You and your teammates will know exactly what needs to happen to reach your first milestone and the milestones after that.
+- Team members assigned to each task
+  - Each person should have a clear understanding of the tasks they own and the order in which they need to complete them. 
+  - Tasks are typically assigned according to a person's role in the project.
+  - To assign tasks between two or more team members with the same roles, you might take into consideration each person's familiarity with the tasks at hand.
+  - When assigning tasks, you should also consider each teammate's workload and keep everyone's workloads balanced. Make sure that a single teammate isn't assigned more work than others.
+
+#### Steps to build a WBS
+
+1. **Start with the high-level, overarching project picture. Brainstorm with your team to list the major deliverables and milestones.**
+2. **Identify the tasks that need to be performed in order to meet those milestones.**
+3. **Examine those tasks and break them down further into sub-tasks.**
+
+{{% callout  note %}}
+For best practices for developing a WBS, check out: [How to Create a Work Breakdown Structure and Why You Should](https://www.lucidchart.com/blog/how-to-create-a-work-breakdown-structure-and-why-you-should).
+{{% /callout %}}
