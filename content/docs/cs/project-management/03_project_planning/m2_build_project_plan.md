@@ -265,6 +265,125 @@ Use soft skills to gather accurate estimates from your teammates
 
 {{< /spoiler >}}
 
-
-
 ## Utilizing Tools to Build a Project Plan
+
+### Developing a project schedule
+
+An **anchor** of a good project plan is a clear schedule containing all the tasks of a project, their owners, and when they need to be completed. Once you have your project schedule, you can build a solid plan around that schedule using tools like spreadsheets and Asana.
+
+<mark>Gantt chart</mark>: A horizontal bar chart that maps out a project schedule.
+
+- A highly visual representation of a projects tasks with clear breakdowns of who's responsible for the work and when those tasks are due
+- Almost like calendars: Gantt charts feature the start and end dates of each task, and the bars align with how much time is devoted to each of those tasks.
+
+Example:
+
+![截屏2024-11-19 23.24.55](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2024-11-19%2023.24.55.png)
+
+A straightforward way to make a Gantt chart is using the spreadsheet.
+
+- Organize your left columns by items like task title, task owner, start date, due date, duration, and percent of task complete. Include relevant information in the rows below, organized by start date.
+- On the right side of your sheet, you'll order your columns by the weeks estimated to complete the project from start to finish. In the rows below that, you'll include bars representing the dates when certain tasks will take place.
+
+### Project plan best practices
+
+{{< spoiler text="Carefully review deliverables, milestones, and tasks" >}}
+
+During the initiation phase, you'll recall that you created a project charter with important information regarding your project, like your goal, scope, and deliverables. When a project enters the planning phase, your plans become more granular. 
+
+You'll need to break down every deliverable into milestones and tasks to ensure that you and your team have a clear picture of what needs to be done to meet your project's goals. Your plan revolves around completing each and every tiny task, so you should take your time to get this piece right.
+
+{{< /spoiler >}}
+
+{{< spoiler text="Give yourself time to plan" >}}
+
+- Using the strategies like effort estimation and capacity planning can help you and your team get a realistic sense of how long the project will take and when you'll be able to hit your milestones. 
+- It's also important to allow for buffer time, since projects rarely go exactly as planned.
+
+{{< /spoiler >}}
+
+{{< spoiler text="Recognizing and planning for the inevitable: things will go wrong" >}}
+
+- Buffer is a helpful tool for mitigating issues related to slowdowns in progress
+
+{{< /spoiler >}}
+
+{{< spoiler text="Staying curious" >}}
+
+- It's so important to sit down with your teammates during a planning phase and ask lots and lots of questions
+- To keep the project running smoothly, it's also important to understand the expectations, priorities, risk assessments, and communication styles of your stakeholders and vendors.
+
+{{< /spoiler >}}
+
+{{< spoiler text="Championing your plan" >}}
+
+To achieve buy-in from your teammates and stakeholders on your project plan, champion it! Tell your team why it benefits them to stay on top of the plan. By doing so, you may influence your teammates to stay on track and update the plan regularly.
+
+{{< /spoiler >}}
+
+### Creating a project plan: Tools and templates
+
+Regardless of what tool you use, be sure to include this key information: 
+
+- **Task ID numbers** or **task names**
+  You might end up with dozens, hundreds, or even thousands of tasks in a project. Assigning a task ID or name makes it easy to find and reference a task when communicating with team members and stakeholders. 
+- **Task durations**
+  A task duration is the amount of time you estimate that task should take. Adding task durations to your project plan helps you organize and prioritize the tasks in the project to help ensure you hit your goal on time. 
+- **Start and finish dates** 
+  Including start and finish dates for each task helps you track whether you are progressing on time or not. 
+- **Who is responsible for what** 
+  Including each team member’s role and responsibilities helps promote clarity and efficiency. As a best practice, assign an owner to each task, as well.
+
+#### Using a spreadsheet to build a project plan
+
+Spreadsheets are an excellent tool to use for project plans, particularly for projects that are less complex and that have a clear assignment of tasks.
+
+Templates:
+
+- [Smartsheet: Project Plan Templates for Microsoft Word](https://www.smartsheet.com/content/project-plan-templates)
+- [Smartsheet: Project Plan Templates for Google Sheets](https://www.smartsheet.com/free-google-docs-templates-google-timeline-templates)
+- Google Project Plan Timeline Template](https://docs.google.com/spreadsheets/d/1TauRTFipsWDWGqaw6tmqJeknKhVI5IjR5jJvBfVzfGw/template/preview)
+- [Microsoft Gantt Chart Template](https://create.microsoft.com/en-us/template/simple-gantt-chart-4bf6b793-490f-4623-84ca-c9c6251a91fc)
+
+### Kanban boards
+
+**Kanban boards** are a visual tool used to manage tasks and workflows. Kanban boards can be created on whiteboards, magnetic boards, poster boards, computer programs, and more. Tasks associated with the project are written on cards. These cards are placed in columns, which represent the progress made. 
+
+Although Kanban boards are useful for all kinds of projects, they are typically most suitable for project teams working in an **Agile** project management approach. 
+
+#### Purposes
+
+- Give a quick visual understanding of work details and provide critical task information.
+- Facilitate handoffs between stakeholders, such as between development and testing resources or between team members who work on related tasks.
+- Help with capturing metrics and improving workflows.
+
+#### Using a Kanban board
+
+Before creating a board, it is best practice to **gather the necessary information and lay out key elements**, such as tasks, status, dates, and durations.
+
+Example
+
+![image-20241123140607612](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/image-20241123140607612.png)
+
+- Each colored rectangle is associated with a task. The tasks are represented horizontally across the effort timeline. 
+- Each column represents where the task is in relation to its completion. 
+  - So as a task is started, it will move from *to do*, to *in progress*. 
+  - When the project is almost ready to be released or complete, it will move to *testing*. 
+  - When it is tested and approved, it will move to *done*.
+
+#### Creating cards
+
+When using physical cards, teams often use both sides. Here is what both sides of the card should include:
+
+**Front**
+
+- **Title and unique identifier:** Make sure you have a quick reference for tasks and ID numbers.
+- **Description of work:** Briefly describe the task to be accomplished. Remember that this is intended to be captured on something no larger than an index card.
+- **Estimation of effort:** Estimate the amount of work it will take to complete the task. For example, you can write “small,” “medium,” or “large” to indicate the level of effort you think that task will involve. 
+- **Who is assigned to the task:** Indicate who is responsible for completing the task; ideally, one person per card.
+
+**Back** 
+
+- **Start date:** Include the start date of the task for use in metrics, tracking, and ensuring that your time estimate is accurate.
+- **Blocked days:** Indicate which days your task may be halted. A task can become blocked if it can’t continue to be worked on. For example, if you were supposed to receive a deliverable and it hasn’t been delivered yet, then your day may be blocked for this particular task.
+- **Finish date:** As with any plan, it is important to track when the task is supposed to be finished. This allows you to ensure that your project is still on track to reach the end goal.
