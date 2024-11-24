@@ -35,6 +35,29 @@ header:
     image:  
 ---
 
+```markmap {height="400px"}
+- Utilizing resources and tools
+	- Understanding project resource needs
+		- Budget
+		- People
+		- Materials
+	- Developing documentation for project kick-off
+		- Project proposal
+		- Project charter
+	- Evaluating tools to meet project needs
+		- Introducing new tools to a team
+			- Discuss the tool early and often, if possible.
+			- Ask for feedback from key stakeholders.
+			- Involve the key stakeholders in demonstrations as you get closer to making the final decision on the project tracking tool.
+			- Ensure the tool is fully functional before the team is introduced to it.
+			- Set up training for the tool as needed before you ask the team to actually use it.
+		- Types of project management tools
+			- Scheduling and work management software
+			- Productivity tools
+			- Collaboration tools
+
+```
+
 ## Understanding Project Resource Needs
 
 ### Essential project resources

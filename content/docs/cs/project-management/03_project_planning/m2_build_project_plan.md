@@ -35,6 +35,50 @@ header:
     image:  
 ---
 
+```markmap {height="400px"}
+- Build project plan
+	- Project plan components
+    - Tasks
+    - Milestones
+    - People
+    - Documentation
+    - Time
+    - Scope and goals
+    - Work Breakdown Structure (WBS)
+    - Budget
+    - Management plans
+  - Using estimation to set timeline
+    - Making realistic time estimates
+      - Time estimation
+      - Effort estimation
+    - Overcoming the planning fallacy
+    - Capacity planning and critical path
+      - Capacity
+      - Capacity planning
+      - Create a critical plan
+        - Capture all tasks
+        - Set dependencies
+        - Create a network diagram
+        - Make time estimates
+        - Find the critical path
+          - Forward pass
+          - Backward pass
+      - Getting accurate time estimates from team
+	      - Ask the right questions
+	      - Negotiate effectively
+	      - Practicing empathy
+  - Use tools to build a project plan
+	  - Gantt diagram
+	  - Best practices
+		  - Carefully review deliverables, milestones, and tasks
+		  - Give yourself time to plan
+		  - Recognizing and planning for the inevitable
+		  - Staying curious
+		  - Championing your plan
+	  - Kanban board
+      
+```
+
 ## Building a Project Plan
 
 ### Components of a project plan
@@ -174,7 +218,7 @@ General steps for creating a critical path that are applicable to most projects
    - Main goal: make sure that you aren’t missing a key piece of work that is required to complete your project. 
    - Focus on the essential, “need to do” tasks, rather than the “nice to do” tasks that aren’t essential for the completion of the project.
 
-2. **Set dependencies **
+2. **Set dependencies**
 
    - Figure out which tasks must be completed before other tasks can start
    - Ask:

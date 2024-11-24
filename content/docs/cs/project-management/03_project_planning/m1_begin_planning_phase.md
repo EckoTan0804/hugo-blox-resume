@@ -36,7 +36,21 @@ header:
     image:  
 ---
 
-
+```markmap {height="400px"}
+- Begin planning phase
+	- Benefit of project planning
+	- Launching the planning phase
+		- Schedule
+		- Budget
+		- Risk management plan
+	- Project kick-off meeting
+		- Attendees
+		- Agenda
+		- Best practice
+	- Defining tasks and milestones
+		- How to set milestones
+		- Work Breakdown Structure (WBS)
+```
 
 ## Understanding the Planning Phase Components
 
@@ -146,7 +160,7 @@ Feel free to schedule as much or as little time for each agenda item according t
 
 Once you've finalized the meeting agenda, document this information into a meeting agenda template, and send it to attendees a day or two ahead of the meeting. 
 
-#### Best practivce
+#### Best practice
 
 - **Set the right time.** 
 
