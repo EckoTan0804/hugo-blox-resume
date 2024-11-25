@@ -503,3 +503,81 @@ Steps to create a SOW
 10. Payment terms: outlines when your suppliers need to be paid
 
 ## Navigating Procurement Challenges
+
+### Obtaining procurement support
+
+The procurement process doesn't end after you've selected vendors and signed contracts. You'll use performance trackers and meetings like quarterly business reviews to track and evaluate overall performance to ensure that both parties are living up to their initial agreement. When there are contracts and paperwork with terminology that you may not be familiar with, you will enlist the help of a legal team. Depending on the company size, the legal situation may vary. 
+
+There will nearly always be laws in place that you'll need to follow around topics like **fair and ethical trade**.
+
+- A team of people in the ethics and compliance departments are tasked with ensuring that the day to day operations are adhering to their value statement and governmental policies. 
+- These team members will also be tasked with duties like working to prevent discrimination and making sure that the company is practicing adequate corporate social responsibility.
+
+You'll all need to be aware of any pertinent meetings regarding legal or compliance issues, and you as a project manager will have to remind the team about when those meetings are being held.
+
+### Ethics in the procurement process
+
+Project managers have a big job when deciphering whether or not every aspect of their project is sourced ethically. It helps if the project manager thoroughly oversees the project to make sure the safety, economic, and environmental ethical risks are mitigated.
+
+Steps to safeguard ethical procurement
+
+1. **Understand Legal and Ethical Requirements**:
+   - Familiarize yourself with your business's legal obligations.
+   - Refer to professional codes of ethics, such as PMI’s Code of Ethics, emphasizing honesty, responsibility, respect, and fairness.
+2. **Conduct Thorough Research**:
+   - Assess vendors' safety, economic, and environmental risks.
+   - Evaluate labor practices, ensuring fair treatment, good conditions, and adequate compensation.
+3. **Consult Experts When Needed**:
+   - Seek advice from subject matter experts (e.g., legal team) when in doubt.
+   - Stay informed about international regulations, particularly in cross-border procurement.
+4. **Monitor Procurement Risks**:
+   - Be vigilant about risks like bribery, corruption, or unethical sole-supplier sourcing.
+   - Justify sole-supplier decisions transparently.
+5. **Engage Ethically with Government Entities**:
+   - Adhere to stricter regulations when working with state-owned entities or officials.
+6. **Evaluate Project Ethics During Initiation**:
+   - Ensure the project aligns with your business's and governmental ethical standards.
+   - Assess labor sourcing and environmental ethics early.
+7. **Scrutinize Suppliers Before Contracting**:
+   - Vet suppliers for ethical practices and fair pricing.
+   - Gain a complete understanding of the supply chain.
+8. **Maintain Oversight Post-Contract**:
+   - Conduct audits, enforce quality control, and review invoices to ensure compliance.
+   - Manage vendor relationships and monitor deliverables.
+9. **Rely on Judgement and Team Support**:
+   - Trust your instincts—if something feels wrong, investigate.
+   - Collaborate with your legal team or stakeholders for guidance when necessary.
+
+### Avoiding ethical traps in procurement
+
+<mark>**Ethical trap**</mark>: An ethical dilemma that causes us to make a certain decision without regard for our ethical principles.
+
+#### Common ethical traps
+
+- **Corruption and bribery**
+  - When a vendor seeks to reduce the competition for a contract during the bidding process. A company may attempt to bribe members within the organization to sway their decision into a favorable outcome for the vendor. Bribes may include things like money, gifts, tickets to events, and more.
+  - Another type of corruption scheme is to offer a certain percentage of an awarded contract—also known as a kickback—to an official who can ensure that their company wins the bid.
+- **Sole-supplier sourcing** 
+  - Having a vendor who a company is already familiar with smooths the procurement process and works well for both parties. Ethical issues arise when other vendors aren’t even allowed to bid for contracts for which they are similarly qualified.
+  - When the buyer’s organization decides to work with that vendor based on their previously-established relationship, that limits competition before the bidding has even begun. When this happens, companies and the public miss out on the advantages of competition, such as reasonable pricing, product quality standards, or speedy delivery options. 
+
+- **Interactions with state-owned entities**
+  - There are some instances in which government agencies require an organization to adhere to stricter ethical standards than they might have otherwise.
+  - If you are unfamiliar with any governmental restrictions that may affect your industry, organization, or project, you could unintentionally fall into an ethical trap.
+
+#### **Avoiding ethical traps**  
+
+- **Understand the legal requirements for your procurements.** 
+  - Every country has regulations to adhere to when conducting business in that country. Be sure to research the legal and ethical requirements based on your project and procurement needs.
+  - If your organization has a legal team, make sure to lean on them for support and advice.
+
+- **Stick to your ethical codes.** 
+  - Honesty, responsibility, respect, and fairness are the values that underpin ethical behavior in the project management profession.
+  - The Project Management Institute’s (PMI) [**code of ethics**](https://www.pmi.org/about/ethics/code) provides detailed guidelines to help ensure you maintain ethical conduct in your projects. 
+- **Test your ethics.** 
+  - When you face an ethical dilemma, ask yourself questions in each of the following categories:
+    - **Shame:** Would you be ashamed if someone knew what you did?
+    - **Community:** Would you want your friends to know the decision you made? 
+    - **Legal:** Would you face legal action if you took this action? 
+    - **Situation:** Would your actions be justified in this situation?
+    - **Consequence:** Would a negative outcome be worth your actions? 
