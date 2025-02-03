@@ -115,7 +115,7 @@ Once you've drafted the charter, you would then review the document with key sta
 
 **Cost-benefit analysis** is the process of adding up the expected value of a project—the benefits—and comparing them to the dollar costs
 
-### benefits of a cost-benefit analysis
+### Benefits of a cost-benefit analysis
 
 - Minimize risks and maximize gains for projects and organizations
 - Help you communicate clearly with stakeholders and executives and keep your project on track

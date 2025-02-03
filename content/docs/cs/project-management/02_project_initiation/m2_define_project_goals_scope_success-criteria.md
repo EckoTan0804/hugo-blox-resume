@@ -365,7 +365,7 @@ Best practices
 
 #### OKRs vs. SMART goals
 
-Earlier in this lesson, you learned how to craft SMART goals for your project. While SMART goals and OKRs have some similarities, there are key differences, as well. This [article](https://www.smartsheet.com/content/okr-vs-smart-goals) describes how SMART goals and OKRs are similar, how they differ, and when you might want to use one or the other
+While SMART goals and OKRs have some similarities, there are key differences, as well. This [article](https://www.smartsheet.com/content/okr-vs-smart-goals) describes how SMART goals and OKRs are similar, how they differ, and when you might want to use one or the other
 
 {{% callout  note %}}
 
