@@ -35,6 +35,45 @@ header:
     image:  
 ---
 
+```markmap {height="600px"}
+- Manage risk
+  - Understanding risk management
+    - Importance
+    - Phase
+      - Identify
+      - Analyze
+      - Evaluate
+      - Treat
+      - Monitor and control
+  - Identifying and assessing risks
+    - Tools
+      - Brainstorming
+        - Cause-and-effect diagram (fishbone diagram)
+      - Risk assessment
+        - Probability and impact matrix
+    - Risk types
+      - Time
+      - Budget
+      - Scope
+      - External
+      - Single point of failure
+    - Dependency types
+      - Finish to Start (FS)
+      - Finish to Finish (FF)
+      - Start to Start (SS)
+      - Start to Finish (SF)
+  - Mitigating and communicating risks
+    - Strategies
+      - Avoid
+      - Accept
+      - Reduce or control
+      - Transfer
+    - Building a risk management plan
+    - Communicating risk to stakeholders
+```
+
+
+
 ## Understanding Risk Management
 
 ### The importance of risk management
@@ -49,7 +88,7 @@ Risk management provides and understanding of
 
 - What could go wrong
 - Who you'll need to consult
-- How th risk could be mitigated
+- How the risk could be mitigated
 
 -> This way, if or when something goes wrong, you'll have a plan prepared and ready to go. Part of being proactive and planning ahead is identifying potential risks and how to solve for them. This way, you'll set up your project with better chances for success. 
 
@@ -68,14 +107,23 @@ Risk management is an ongoing practice throughout the life cycle of your project
 ![image-20241203114439281](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/image-20241203114439281.png)
 
 1. **Identify the risk.**
+
    The first phase of the risk management process is to identify and define potential project risks with your team. After all, you can only manage risks if you know what they are. 
+
 2. **Analyze the risk**. 
+
    After identifying the risks, determine their likelihood and potential impact to your project. Serious risks with a high probability of occurring pose the greatest threat.
+
 3. **Evaluate the risk**. 
-   Next, use the results of your risk analysis to determine which risks to prioritize.
+
+   Use the results of your risk analysis to determine which risks to prioritize.
+
 4. **Treat the risk**. 
+
    During this phase, make a plan for how to treat and manage each risk. You might choose to ignore minor risks, but serious risks need detailed mitigation plans.
+
 5. **Monitor and control the risk.** 
+
    Finally, assign team members to monitor, track, and mitigate risks if the need arises.
 
 ### Uncover opportunities using risk management
@@ -126,7 +174,7 @@ During these brainstorming sessions, you might find that your list of potential 
 1. List the outcomes from the brainstorm in a **risk register**, a table or chart that contains your list of risks.
 2. Adopt a risk assessment technique
    - <mark>**Risk assessment**</mark>: the stage of risk management where qualities of a risk are estimated or measured. 
-   - Qualitie: how likely the risk is to occur and its potential impact on a project.
+   - Qualities: how likely the risk is to occur and its potential impact on a project.
    - Common techique: **Probability and impact matrix** (for prioritizing project risk)
      ![image-20241207230803771](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/image-20241207230803771.png)
      - <mark>**Impact**</mark>: The damage a risk could cause if it occurs, which is determined on a scale of high, medium, and low.
@@ -219,7 +267,7 @@ Cloche is a bakery that serves bread, pastries, and light meals. They’re intro
 
   - **Transfer**: shifts the responsibility of handling the risk to someone else
   - **Accept**: accept the risk as the normal cost of doing busines
-    - **Active** **acceptance of risk: setting aside extra funds to pay your way out of trouble
+    - **Active acceptance of risk**: setting aside extra funds to pay your way out of trouble
     - **Passive** **acceptance of risk**: “do nothing” approach (NOT recommended!)
 
 
@@ -280,7 +328,7 @@ Cloche is a bakery that serves bread, pastries, and light meals. They’re intro
 
 {{< /spoiler >}}
 
-{{< spoiler text="Start to Finsh (SF)" >}}
+{{< spoiler text="Start to Finish (SF)" >}}
 
 ![截屏2025-02-03 22.42.15](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2025-02-03%2022.42.15.png)
 
@@ -294,7 +342,9 @@ Cloche is a bakery that serves bread, pastries, and light meals. They’re intro
 
 #### **Dependency graphs**
 
-Example: Imagine you are making peanut butter and jelly sandwiches for the kids who will be coming to your dinner, and you want to use dependency relationships to map your activities on a graph. 
+{{< spoiler text="Example" >}}
+
+Imagine you are making peanut butter and jelly sandwiches for the kids who will be coming to your dinner, and you want to use dependency relationships to map your activities on a graph. 
 
 ![截屏2025-02-03 22.44.00](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2025-02-03%2022.44.00.png)
 
@@ -313,6 +363,7 @@ Break each task down to create your dependency graph:
 
    ![截屏2025-02-03 22.47.35](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2025-02-03%2022.47.35.png)
 
+{{< /spoiler >}}
 
 
 ## Mitigating and Communicating Risks
