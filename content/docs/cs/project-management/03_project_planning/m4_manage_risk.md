@@ -315,7 +315,67 @@ Break each task down to create your dependency graph:
 
 
 
-## Mitigating and Communicating Tasks
+## Mitigating and Communicating Risks
+
+### Risk mitigation strategies
+
+{{< spoiler text="Avoid" >}}
+
+Taking action that will eliminate the possibility of risk.
+
+{{< /spoiler >}}
+
+{{< spoiler text="Accept" >}}
+
+Accept the risk by accepting the possibility that this risk can happen.
+
+{{< /spoiler >}}
+
+{{< spoiler text="Reduce or control" >}}
+
+Determine potential options to address it.
+
+<mark>**Decision tree**</mark>: A flowchat that helps visualize the wider impact of a decision on the rest of a project.
+
+{{< /spoiler >}}
+
+{{< spoiler text="Transfer" >}}
+
+Shift the risk from one party to another.
+
+{{< /spoiler >}}
+
+
+### Building a risk management plan
+
+<mark>**Risk management plan**</mark>: A living document that contains information regarding high-level risks and the mitigation plan for each of those risks. 
+
+- Helps ensure that teammates and stakeholders have a clear understanding of potential problems and a plan to address them should they occur.
+- Should be updated regularly to add newly-identified risks, remove risks that are no longer relevant, and include any changes in the mitigation plans.
+
+
+### Communicating risk to stakeholders
+
+Why should you as a project manager communicate risks to project stakeholders?
+
+- If you don't tell your stakeholders about important risks, they may be less equipped to help you if an issue does arise.
+- Failing to communicate risks to stakeholders can erode thier trust in you as the leader of the project!
+
+Communicate **early and often** with stakeholders about **medium- and high-level** risks.
+
+How to communicate risks to stakeholders during the planning phase?
+
+- Depends on the severity of the risk.
+
+  | Severity | Communication                                                |
+  | -------- | ------------------------------------------------------------ |
+  | Low      | Email                                                        |
+  | Medium   | Direct e-mail between yourself and the stakeholder in which you outline the risk with more specifics and provide a detailed explanation of your plan to mitigate the risk. |
+  | High     | A thorough and direct level of communication                 |
+
+
+
+
 
 
 
