@@ -387,6 +387,37 @@ Additional stakeholders with whom your team needs to communicate include:
 
 ## Documenting Project Planning Resources
 
+### The value of project documentation
+
+It is importatnt for everyone to store their plans and reports in one ***centralized*** place.
+
+- Having plans in one place makes communication quicker, easier, and more streamlined.
+
+- Documenting and organizing plans also provides visibility and accountability. 
+- Having up-to-date plans will help ensure there's no room for misinterpretation or miscommunication.
+- Documentating plans in one place provides <u>continuity</u>.
+
+Once you've created a centralized location for your documents, it's time to think about managing permissions of your files and folders.
+
+- Not everyone needs full access to project documentation.
+- Make sure the people in relevant roles are granted access to those documents. So even if you're not present, the project can carry on.
+
+<mark>**Knowledge management**</mark>: A way of ensuring that project data can be accessed in the future by others who need it for informing decisions or planning similar projects.
+
+- If someone needs to review this project for making decisions or planning similar projects, they should be able to easily access the information they need. 
+- It also helps set the tone for future projects and future project managers.
+- It's also important to determine what kind of information to share with whom and when. Focus on the key information related to what specific individuals need to know.
+- **Pro tip**: Protect senstitive data from unauthorized viewers.
+- **Need-to-know basis**: Telling someone facts that they need to know at the time they need to know them, and nothing more.
+
+### Organizing project documentation
+
+Goal: Have all of your project resources documented and linked in a way to where you or anyone on the project can access what they need quickly.
+
+Handy way: Using a shared file drive (*e.g.*, Google Drive) and creating one resource like a document or spreadsheet that links all of the files and resources that your project uses.
+
+
+
 
 
 
