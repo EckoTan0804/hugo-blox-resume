@@ -14,6 +14,7 @@ authors:
   - admin
 tags:
   - project-management
+  - project-planning
 categories:
   - Project Management
 toc: true # Show table of contents
