@@ -36,6 +36,35 @@ header:
     image:  
 ---
 
+```markmap {height="400px"}
+- Organize communication documentation
+    - Creating an Effective Communication Plan
+      - Tips for effective communication
+        - Recognize and understand individual differences
+        - Brainstorm and craft the appropriate message
+        - Deliver your message
+        - Obtain feedback and incorporate that feedback going forward
+      - Starting a communication plan
+        - What needs to be communicated
+        - Who needs to communicate
+        - when communication needs to happen
+        - Why and how to communicate
+        - Where the information communicated is stored
+      - Developing a communication plan
+        - Who needs to be involved in the project communication?
+        - What's the best way to communicate?
+        - Why are you communicating?
+        - How often should you communicate?
+    - Documenting Project Planning Resources
+      - The value of project documentation
+      - Organizing project documentation
+    - Preparing for a Job Search
+      - Documenting experience in a resume
+      - Tailoring a resume for project management
+```
+
+
+
 ## Creating an Effective Communication Plan
 
 ### Why communication is critical
@@ -102,7 +131,7 @@ Communication doesn’t end when you deliver your message, so be sure to follow 
 {{< /spoiler >}}
 
 
-### Starting a communciation plan
+### Starting a communication plan
 
 <mark>**Communication plan**</mark>: Organizes and documents the process, types, and expectations of communication for the project.
 
