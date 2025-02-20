@@ -14,6 +14,7 @@ authors:
   - admin
 tags:
   - project-management
+  - project-planning
 categories:
   - Project Management
 toc: true # Show table of contents
@@ -416,9 +417,160 @@ Goal: Have all of your project resources documented and linked in a way to where
 
 Handy way: Using a shared file drive (*e.g.*, Google Drive) and creating one resource like a document or spreadsheet that links all of the files and resources that your project uses.
 
+## Preparing for a Job Search
+
+### Documenting experience in a resume
+
+Items to include on a resume
+
+- Contact information
+  - Name
+  - Email address
+  - Other contact information
+
+- Current and previous work and educational experience
+  - Work experience
+    - Employers and job titles
+    - For each job: 2 -3 bullet points explaining job responsibilities
+
+  - Educational experience
+    - High school and colleague
+    - Online degrees, certificates and other professional development
+
+- Skills
+  - Skills that are relevant to the position you're applying to
+  - Industry knowledge (e.g., experience with digital tools or software)
+  - Languages
+  - Hobbies
 
 
+### Tailoring a resume for project management
 
+#### Tailor the content
 
+{{< spoiler text="Identify what is important to the potential employer." >}}
 
+-  Make sure that you carefully read the job description and notice which skills are mentioned. 
+- You can also read several job descriptions for the same type of role to identify which skills and requirements show up frequently. 
+- You should take note of these skills and be sure to highlight them using similar terms on your resume. 
 
+{{< /spoiler >}}
+
+{{< spoiler text="Create one master project management resume to edit and tailor to each job application. " >}}
+
+Make sure that the order of your skills and qualifications matches the job description. In doing this, you are making sure that the things that are most important to the employer are at the top. 
+
+{{< /spoiler >}}
+
+{{< spoiler text="Match the language used in the job description. " >}}
+
+Some employers use automation software to filter resumes. If the job description uses keywords like *procurement* and *risk management,* make sure your resume uses those keywords, too. 
+
+{{< /spoiler >}}
+
+{{< spoiler text="Use project management terminology." >}}
+
+This will help the person reading your resume understand how your past experience is relevant to a project management position. 
+
+{{< /spoiler >}}
+
+{{< spoiler text="Decide what <u>not</u> to include on your resume." >}}
+
+You may have some skills that are important to you, but those same skills may confuse or distract the hiring managers reading your resume. 
+
+{{< /spoiler >}}
+
+{{< spoiler text="Highlight how your past experience and skills are relevant to project management." >}}
+Highlight how your past experience and skills are relevant to project management.
+{{< /spoiler >}}
+
+#### Choose an appropriate format
+
+No matter what layout or template you choose for your resume, there are several things you should keep in mind 
+
+- The design of your resume should be **simple and easy to understand** for both human and artificial intelligence readers. You don’t want your resume to be discarded before a real person has a chance to read it! 
+- Your resume should be easy to read and should **convey all of the important information in short bullet points**. 
+- Your resume should be **one- to two-pages long** and contain only the last ten to fifteen years of relevant experience. It is appropriate to use two columns on a one-page resume, but if your resume is two pages, be sure to use the entire width of the page. 
+
+#### Update the relevant sections
+
+Once you have determined the appropriate format for your resume, you will need to update each of your resume’s major sections, which include:
+
+{{< spoiler text="Contact information" >}}
+
+our header should contain your contact information and should go at the top of your resume. 
+
+**Your header should include the following information:**
+
+- Your name in a larger font than the rest of your resume
+- The city and state you live in (you do not need to include your street address for privacy purposes)
+- Your phone number and a link to your email address
+- Link to your LinkedIn profile URL
+- Links to any other personal websites or portfolios, if applicable to the role you are applying for
+
+**Your header should be relevant, simple, and easy to read.**
+
+Example
+
+![截屏2025-02-20 22.48.06](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2025-02-20%2022.48.06.png)
+
+{{< /spoiler >}}
+
+{{< spoiler text="Professional summary" >}}
+
+Below your header, include a professional summary.
+
+- **Use your summary to set the tone.**
+  - Your summary should be one to three lines and should clearly state why you are the best candidate for the position. 
+  - It should highlight the most important things you want the reader to know about you.
+  - Make sure you tailor your description of yourself to the role you are applying for. 
+- **Merge the description of the role you are applying for with your past experience.**
+- **Use keywords from the job description** **to describe yourself.** 
+
+Once you have your professional introduction, your next sentence should explain how your unique expertise will make you valuable to the employer. 
+
+Don’t forget to use this section to highlight something that makes you stand out from other applicants.
+
+{{< /spoiler >}}
+
+{{< spoiler text="Core competencies" >}}
+
+Your core competencies should be a bulleted list of the most relevant skills applicable to the position you are applying for. 
+
+- Scan the job description for core competencies you have gained during this certification, as well as your past experience, and use those skills as bullet points in this section. 
+- Make sure to keep this section relatively short, with four to eight bullets. 
+
+Example:
+
+![截屏2025-02-20 22.51.32](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2025-02-20%2022.51.32.png)
+
+{{< /spoiler >}}
+
+{{< spoiler text="Professional experience" >}}
+
+The professional experience section of your resume provides a summary of the roles and positions you have held in your career. List at least three positions in *reverse chronological* order and only include what is most relevant to the position you are applying for. 
+
+Your professional experience will not change much from previous resumes, because you can’t change the past roles you have held. However, you can possibly rewrite some of your bullets to relate them to project management.
+
+**Pro tip:** Make sure your resume conveys how your past accomplishments are valuable to the role you are applying for. Show the reader how you can make a difference in their organization. An easy way to remember this is through the P.A.R.I.S. framework:
+
+- **P**roblem that needed to be solved
+- **A**ction(s) I took
+- **R**esult of action(s) 
+- **I**mpact on project (users, quality, etc.) 
+- **S**upporting evidence (awards, bonus, etc.) 
+
+{{< /spoiler >}}
+
+{{< spoiler text="Education and certifications" >}}
+
+- You should include any degrees beyond your high school diploma in *reverse chronological* order. For each degree, list the degree you earned, institution, location, and date of graduation. 
+- This section should also list any professional certifications or credentials you hold. It is here where you will list this new project management certification.
+
+{{< /spoiler >}}
+
+{{% callout success %}}
+
+Pro tip: Resumes should be written in the third person and should not contain personal pronouns. 
+
+{{% /callout %}}
