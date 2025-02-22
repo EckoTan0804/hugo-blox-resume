@@ -121,6 +121,17 @@ main:
   identifier: practical-skills
   parent: cs
   weight: 504
+
+- name: "\U0001F4B0 Finance"
+  url: docs/finance/
+  identifier: finance
+  weight: 600
+- name: "Personal Finance"
+  url: docs/finance/personal-finance
+  identifier: personal-finance
+  parent: finance
+  weight: 601
+
   
 # - name: "\U0001F4DD Notes"
 #   url: docs/notes/
