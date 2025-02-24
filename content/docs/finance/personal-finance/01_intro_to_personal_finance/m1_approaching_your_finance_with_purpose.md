@@ -218,6 +218,139 @@ Reference: [6 Tips for Making a Financial Plan](https://www.sofi.com/learn/conte
 
 ## The Financial Planning Process
 
+### Financial planning in 6 steps
+
+{{< spoiler text="1. Understand what you own, owe and spend" >}}
+
+- Make sure that you have a solid understanding of your current financial situation
+  - **Own**: Include all of your assets, such as checking your savings accounts, investment accounts, retirement plans, a home, etc.
+  - **Owe**: Include all of your liabilities such as student loans, credit cards, personal loans, mortgages, etc.
+  - **Spend**: Include all of your inflows and outflows that occur on a regular basis
+
+{{< /spoiler >}}
+
+{{< spoiler text="Identify your goals, concerns, and preferences" >}}
+
+| Goal       | Example                  |
+| ---------- | ------------------------ |
+| Short-term | Having an emergency fund |
+| Mid-term   | Buying a house           |
+| Long-term  | Retirement               |
+
+As you work through your goals, prioritize them so that way you're prepared to make trade-offs down the road.
+
+{{< /spoiler >}}
+
+{{< spoiler text="Plot your course" >}}
+
+Now you have your current financial position and your destination, you can assess what you need to accomplish to get from point A to point B. It's important that you use reasonable assumptions and figure out if you're in a good spot, an okay spot or a bad spot. From there, you can course correct and understand what you need to do and ultimately what you need to accomplish to get to your goals.
+
+{{< /spoiler >}}
+
+{{< spoiler text="Identify your next best action" >}}
+
+Figure out the best use of your next dollar.
+
+{{< /spoiler >}}
+
+{{< spoiler text="Focus on that action for the next 30, 60, or 90 days" >}}
+
+An extremely important mindset to adopt in your financial journey: Breaking down larger goals into micro goals will help you achieve your goals.
+
+{{< /spoiler >}}
+
+{{< spoiler text="Rinse and repeat" >}}
+
+Your financial plan is going to evolve as your life changes -> Establishing regular cadence to review your plan is important.
+
+{{< /spoiler >}}
+
+{{% callout  note %}}
+As you start to implement this process into your financial journey, remember that it's important to take it ***step by step***. It's extremely natural to feel overwhelmed when you're looking at all six steps at once.
+{{% /callout %}}
+
+### How to plan for your future
+
+#### Setting Goals: What and Why
+
+How you plan for your future depends, in large part, on what your goals are. When you know why you’re moving towards a certain goal, it can provide powerful motivation for you to stay the course, even if something unexpected happens.
+
+{{% callout  warning %}}
+💡 Quick Tip: If you’re opening a brokerage account for the first time, consider starting with an amount of money you’re prepared to lose. Investing always includes the risk of loss, and until you’ve gained some experience, it’s probably wise to start small.
+{{% /callout %}}
+
+#### Understanding the Now
+
+Another critical step for planning for the future includes calculating where you are right now, including
+
+- your assets (what you own)
+- your debts (what you owe)
+- your income (what you bring in)
+- your expenses (what you pay out)
+
+As far as income goes, tally up how much you make monthly from wages/salaries, bonuses, and so on.
+
+Then, list your fixed expenses, which could include your rent or mortgage payment, monthly utilities, property taxes (if applicable), insurance premiums, prescription costs, groceries, gas, and so forth. Also look at what you spend on clothing, hobbies, entertainment, and dining out.
+
+#### Creating a Financial Plan
+
+When thinking about how to plan for the future, it might be helpful to connect the dots between where you are today and where you want to be to achieve the goals you’ve set.
+
+If you have multiple goals to accomplish, prioritizing them. It is very helpful to cultivate a **pay-yourself-first** attitude: the top priority is to put a predetermined amount of money into personal savings and investment accounts.
+
+{{% callout  note %}}
+💡 Quick Tip: When you’re actively investing in stocks, it’s important to ask what types of fees you might have to pay. For example, brokers may charge a flat fee for trading stocks, or require some commission for every trade. Taking the time to manage investment costs can be beneficial over the long term.
+{{% /callout %}}
+
+#### Implementing Your Plan
+
+Once you’ve formulated a plan, it’s time to put it into action. Automate steps/payments to reduce the amount of time spent on managing this part of the plan.
+
+#### Monitoring Your Progress
+
+Include at least an annual review — or perhaps you prefer to do it biannually or quarterly — to see how your plan is progressing.
+
+#### Investments: Planning for the Future
+
+In general, there are three investor types:
+
+{{< spoiler text="active investor" >}}
+
+- Involved in each aspect of investing, embracing a hands-on approach
+- Buys stocks or other investments, and likely does research to decide which types of investments to make.
+
+An active investor can have a professionally managed portfolio or they could choose to manage their own portfolio, if they believe they have the skills and expertise to do so. But there are <u>risks</u> involved, which include potentially losing money, so you’ll need to figure out [how much risk you are comfortable with](https://www.sofi.com/learn/content/what-is-your-risk-tolerance/).
+
+{{< /spoiler >}}
+
+{{< spoiler text="passive investor/low-maintenance investor" >}}
+
+- Passive investor: Investing but don’t want to be significantly involved in making investment decisions
+  - “Buy-and-hold” philosophy where you buy securities and plan to hold on to them for a longer period of time, throughout fluctuations of the market.
+
+{{< /spoiler >}}
+
+{{< spoiler text="hands-off investor/automatic investor" >}}
+
+If you’re open to more activity on your investment account, but you don’t want to spend much personal time studying the market, [rebalancing your portfolio](https://www.sofi.com/learn/content/when-to-rebalance-portfolio/), and otherwise handling all the details, then you may want to consider **automated investing**.
+
+- Use computer algorithms to generate tailored investment advice and financial planning. It may reduce the learning curve for some beginner investors, helping them start building and managing a portfolio to achieve their financial goals.
+- Use computer algorithms to select and trade stocks, [exchange-traded funds (ETFs)](https://www.sofi.com/learn/content/what-is-an-etf/), or other assets.
+
+How automated investing works?
+
+- An interested investor takes an online survey about their financial situation, risk tolerance, and goals. 
+- The automated investing platform then uses this data to recommend investments to the client. 
+- Based on the investor’s input, the automated investing platform will recommend and manage a pre-determined portfolio for the investor.
+
+{{< /spoiler >}}
+
+
+
+{{% callout note %}}
+Reference: [Planning for the Future](https://www.sofi.com/learn/content/planning-for-your-future/?utm_source=coursera&utm_campaign=personal_finance_specialization&utm_medium=referral)
+{{% /callout %}}
+
 
 
 ## Your Relationship with Money
