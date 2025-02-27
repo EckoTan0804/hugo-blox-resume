@@ -30,7 +30,7 @@ disable_comment: false
 
 ## The Benefits of Financial Planning
 
-### The basiss of financial planning
+### The Basiss of Financial Planning
 
 At a high level financial planning is **the process of assessing where you stand, where you want to go, and then plotting the course to get there one step at a time.**
 
@@ -44,7 +44,7 @@ At a high level financial planning is **the process of assessing where you stand
 
 With personal finances, time can either be your best friend or your worst enemy. Just like with health or most other things in life, small healthy habits started earlier have a larger impact than more drastic actions taken later.
 
-### Lifecycle of financial planning
+### Lifecycle of Financial Planning
 
 Common aspects of financial planning
 
@@ -89,7 +89,7 @@ Healthy habits for any age
 - Follow a consistent approach to understanding your finances to accomplish your goals
 - Establish safeguards to make sure that your finances are resilient 
 
-### Tips for creating a financial plan
+### Tips for Creating a Financial Plan
 
 A financial plan is not just another word for budget or debt-reduction plan. It’s the **long-term roadmap** that could help make your vision for the future a reality. 
 
@@ -218,7 +218,7 @@ Reference: [6 Tips for Making a Financial Plan](https://www.sofi.com/learn/conte
 
 ## The Financial Planning Process
 
-### Financial planning in 6 steps
+### Financial Planning in 6 Steps
 
 {{< spoiler text="1. Understand what you own, owe and spend" >}}
 
@@ -345,17 +345,65 @@ How automated investing works?
 
 {{< /spoiler >}}
 
-
-
 {{% callout note %}}
 Reference: [Planning for the Future](https://www.sofi.com/learn/content/planning-for-your-future/?utm_source=coursera&utm_campaign=personal_finance_specialization&utm_medium=referral)
 {{% /callout %}}
 
-
-
 ## Your Relationship with Money
 
+### Understand the Human Side of Personal Finances
 
+Human psychology plays a significant role in your relationship with money. Your early money experiences shape your financial psychology, and your money personality was influenced by your parents and others around you during your formative years.
+
+**Klontz Money Script Inventory (KSMI) assessment**: a tool to figure out your core money beliefs.
+
+- Assumptions
+  - Money beliefs are <u>developed in childhood</u> and often passed down through <u>generations</u>.
+  - They're typically <u>unconscious</u> but connected to specific contexts or situations.
+  - Often just partial truths
+  - Money beliefs are a primary driver of how we interact with money, which is responsible for our financial outcomes. We make important decisions with our money because of them
+
+Money scripts
+
+{{< spoiler text="Money avoidance" >}}
+
+- Rich people are greedy
+- Money should be avoided
+- There's virtue in having less money
+- Don't like to review your bank statements
+- May even suffer from financial anxiety
+
+{{< /spoiler >}}
+
+{{< spoiler text="Money worship" >}}
+
+- Believe that the key to happiness and the solution to your problems is more money
+- Believe that you can never have enough money
+- Associated with lower-income, lower net worth, and sometimes, destructive financial behaviors
+
+{{< /spoiler >}}
+
+{{< spoiler text="Money status" >}}
+
+- Your self-worth and net worth are likely closely connected
+- May struggle with desire to keep up with the Joneses
+- Buy flashy new things
+- Inclined to tell people you make more money than you actually do
+- Associated with poor financial behaviors, and people from poor backgrounds are even more vulnerable to this script
+
+{{< /spoiler >}}
+
+{{< spoiler text="Money Vigilance" >}}
+
+- Recognize the importance of saving for your future
+- Downplay how much money you have or how much money you make
+- Associated with being secretive and frugal, which can be detrimental to your relationships and inhibit your ability to enjoy your current resources.
+
+{{< /spoiler >}}
+
+{{% callout  info %}}
+Read [this article](https://www.yourmentalwealthadvisors.com/our-process/your-money-script/) to dive into money personalities.
+{{% /callout %}}
 
 ## Couples and Money
 
