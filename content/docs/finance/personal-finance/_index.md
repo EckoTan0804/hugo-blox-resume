@@ -26,3 +26,5 @@ featured: true
 comments: true  # Show comments?
 disable_comment: false
 ---
+
+Notes and summary for the course **["The Fundamentals of Personal Finance Specialization"](https://www.coursera.org/specializations/personal-finance-fundamentals)** on Coursera.
