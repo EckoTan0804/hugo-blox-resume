@@ -131,6 +131,11 @@ main:
   identifier: personal-finance
   parent: finance
   weight: 601
+- name: "ETF"
+  url: docs/finance/ETF
+  identifier: ETF
+  parent: finance
+  weight: 610
 
   
 # - name: "\U0001F4DD Notes"
