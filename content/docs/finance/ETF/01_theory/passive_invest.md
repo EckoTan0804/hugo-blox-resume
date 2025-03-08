@@ -48,18 +48,18 @@ header:
 {{% /callout %}}
 
 
-In passive investing, you focus on the market as a whole instead of individual stocks, allowing you to benefit from overall market returns. This strategy is often more profitable in the long term than active strategies, and it also saves you time.
+In passive investing, you **focus on the market as a whole instead of individual stocks**, allowing you to benefit from overall market returns. This strategy is often more profitable in the long term than active strategies, and it also saves you time.
 
 ## Active vs. Passive Investing
 
-In **active investing**, investors
+In **<u>active</u> investing**, investors
 
 - monitor the market and decides which stocks are undervalued or overvalued
 - Invest in these stocks with the expectation that the stock price will eventually adjust to their predicted value, allowing them to profit when they sell the stock. The active selection of stocks is called **stock picking**. 
 - Can also invest in actively managed funds, where a fund manager decides which companies to invest the investors' money in. 
 - **aim to outperform the market return**
 
-On the other hand, **passive** investors believe that it is not possible to beat the market. Instead, they invest in an average global portfolio and, in return, achieve the average market return.
+On the other hand, **<u>passive</u>** investors believe that it is not possible to beat the market. Instead, they invest in an average global portfolio and, in return, achieve the average market return.
 
 {{% callout note %}}
 
@@ -112,11 +112,20 @@ In short, you take existing markets and trust that the global economy, specific 
 As a passive investor, you 
 
 - have a long-term investment horizon, meaning you hold your investments for as many years as possible
-- ride out short-term price fluctuations, avoid chasing trends, and don’t get tempted by so-called "hot tips." 
+- ride out short-term price fluctuations, avoid chasing trends, and don’t get tempted by so-called "hot tips" 
 - only check your portfolio occasionally, as the goal is not to access the money immediately but to let it work for you over the long term
 - avoid speculation, meaning you don’t rely on personal knowledge or gut feelings to beat the market.
 
-{{< youtube 0EV6PvA7Cuc >}}	
+{{< youtube 0EV6PvA7Cuc >}}
+
+Advantages of long-term passive buy-and-hold strategy
+
+- Good long-term return
+- Maximal diversification
+- Cost-effective (ETFs typically have lower fees than actively managed funds.)
+- Time-saving
+- Start with small amount of capital
+- No timing necessary
 
 ### Tax Advantages of Buy-and-Hold in Passive Investments
 
