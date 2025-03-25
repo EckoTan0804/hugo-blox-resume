@@ -6,7 +6,7 @@ weight: 402 # Position in the left sidebar
 # ============================================================
 
 # ========== Basic metadata ==========
-title: Fund Volume: Why is it crucial
+title: Fund Volume
 date: 2025-03-07
 draft: false
 authors:

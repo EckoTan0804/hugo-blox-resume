@@ -1,12 +1,12 @@
 ---
 # ===== Title, summary, and position in the left sidebar =====
-linktitle: Etf Selection  # Title shown in the left sidebar menu
+linktitle: ETF Selection  # Title shown in the left sidebar menu
 summary:  # Summary of this post
 weight: 400 # Position in the left sidebar
 # ============================================================
 
 # ========== Basic metadata ==========
-title: Etf Selection
+title: ETF Selection
 date: 2025-03-07
 draft: false
 authors:
