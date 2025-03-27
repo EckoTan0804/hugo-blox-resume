@@ -127,3 +127,7 @@ Depending on whether you're following a stock or ETF strategy, different costs a
 - Individual stocks don't have ongoing management costs like the TER (Total Expense Ratio) of ETFs.
 
 If you want to diversify globally, ETFs are the way to go: buying thousands of individual stocks would be expensive and time-consuming.
+
+## Reference
+
+- [Welche Kosten und Gebühren gibt es bei ETFs?](https://www.finanzfluss.de/etf-handbuch/kosten/)
