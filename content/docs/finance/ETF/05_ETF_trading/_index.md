@@ -1,12 +1,12 @@
 ---
 # ===== Title, summary, and position in the left sidebar =====
-linktitle: Etf Trading  # Title shown in the left sidebar menu
+linktitle: ETF Trading  # Title shown in the left sidebar menu
 summary:  # Summary of this post
 weight: 500 # Position in the left sidebar
 # ============================================================
 
 # ========== Basic metadata ==========
-title: Etf Trading
+title: ETF Trading
 date: 2025-03-07
 draft: false
 authors:
