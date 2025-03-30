@@ -35,23 +35,11 @@ header:
     image:  
 ---
 
-{{% callout note %}}
-## 💡Take Away
-- No access to the market without a securities account: As an ETF investor, you need a brokerage account to trade ETFs or set up savings plans.
 
-- Banks and other financial institutions offer (online) brokerage accounts. Setting one up is quick and easy—you just need to verify your identity via video.
-
-- These fees apply: account management fees (ongoing) and transaction costs (per order). Providers differ significantly in these costs.
-
-- ETF lump-sum investment or savings plan? The product offerings vary by provider, so you should choose the one that best fits your investment strategy.
-
-- Trading via desktop or smartphone? Some neobrokers are only accessible via smartphone. This can be convenient but may also limit your options.
-
-{{% /callout %}}
 
 ## Why an ETF Investor Needs a Securities Account
 
-A securities account, or simply a "**Depot**," is an account used to store securities. "Depot" comes from French and means storage. 
+A securities account, or simply a "**Depot**" (in German), is an account used to store securities. "Depot" comes from French and means storage. 
 
 - In your securities account, you can store ETFs, index funds, stocks, bonds, or derivatives.
 
@@ -91,7 +79,7 @@ There are account maintenance fees – this is either a fixed amount charged mon
 
 Many accounts are even free: either for the first few months or permanently. Others have conditions that you must meet to keep them free, such as maintaining a Comdirect checking account or having an active savings plan.
 
-### Transaction Costs: Pay Attention to Fee Models
+### Transaction Costs
 
 Transaction costs are charged per order. These can vary significantly, so you should definitely compare providers to find the best solution for your investment strategy.
 
@@ -99,9 +87,9 @@ Transaction costs are charged per order. These can vary significantly, so you sh
 
 - Hybrid model: you pay a small amount per order plus a percentage of the fee
 
-## How to Find the Right Securities Account (Depot)
+## How to Find the Right Securities Account
 
-Criteria you should specifically consider when selected a depot:
+Question you should specifically consider when selected a securities account:
 
 {{< spoiler text="What type of securities are you trading?" >}}
 
@@ -138,6 +126,69 @@ We recommend using separate accounts for couples, as this could have tax advanta
 If your priorities change or you want to switch to a new strategy, you can always switch your broker. Most providers will transfer your ETFs for free and easily.
 {{% /callout %}}
 
+### Criteria for a good securities account
+
+{{< spoiler text="Manage the account yourself?" >}}
+
+- If you want to make your own investment decisions, online brokers are the right choice. 
+
+- If you're unsure, you can also open an account through a bank advisor. However, this usually comes with higher fees, and the advisor will tend to recommend more expensive, actively managed funds.
+
+{{< /spoiler >}}
+
+{{< spoiler text="Which securities? How often?" >}}
+
+If you already know which ETFs or ETF savings plans you want to invest in, you can double-check with your chosen broker to ensure they offer the ETF. For long-term wealth building, savings plans are particularly interesting for you.
+
+{{< /spoiler >}}
+
+{{< spoiler text="What costs are involved?" >}}
+
+In addition to the **order fees** you pay with each purchase and sale, some brokers also charge **account maintenance fees**. Make sure to check the provider's website so you don't get any unpleasant surprises! All the information can be found in the "Price and Service Directory." 
+
+Nowadays, many online providers offer accounts with no maintenance fees. The strong competition among numerous providers has made high fees uncommon. However, there is still potential for savings. 
+
+Check out [account comparison](https://www.finanzfluss.de/vergleich/depot/) to get an overview of the fees for the most well-known German brokers.
+
+{{< /spoiler >}}
+
+{{< spoiler text="Security" >}}
+
+It occasionally happens that a financial institution goes bankrupt. However, as an investor, this should *not* be a cause for panic: The assets in ETFs are considered **"special assets"** in Germany. 
+
+- The Capital Investment Code (KAGB) ensures that fund providers must manage their investors' assets separately from their own. 
+- In the event of the ETF provider's bankruptcy, the insolvency administrator does not have access to your ETF assets. This is how the securities in your account are protected.
+
+- There is deposit protection for uninvested money in your linked cash account. This protects assets up to €100,000 per financial institution and per person.
+  -  In other words, if you have more than €100,000 in a cash account, in the event of a bank insolvency, you are guaranteed to get €100,000 back. 
+  - Depending on the insolvency situation and additional protective mechanisms, higher amounts may also be refunded.
+
+Overview of the protection of securities and bank deposits:
+
+|                                            | **Insolvency ETF Provider**                         | **Insolvency Bank**                                          |
+| ------------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------ |
+| **Protection**                             | ETF assets are special assets                       | Protection for (cash) deposits like savings, fixed deposits, and checking accounts:<br /><li/> Up to €100,000 through deposit insurance<br /><li/> Additionally, voluntarily a member of private deposit protection funds<br/> <br />**Protection for securities such as ETFs**: Special assets; do not belong to the bank |
+| **Consequence in the event of insolvency** | Liquidation of the ETF and cash payout to investors | <li/> Transfer and transfer of securities to a new broker<br /><li/> Reimbursement of deposits by the German deposit insurance up to €100,000 |
+
+{{< /spoiler >}}
+
+{{< spoiler text="Choosing a brokerage account is not the most important thing" >}}
+
+You can't go too wrong by choosing one of the German online or neo-brokers. Ultimately, it comes down to your usage preferences: 
+
+- Do you prefer to trade via app or on the desktop? 
+- Do you want personal advice and are willing to pay for it?
+
+Also, switching brokers is generally quite simple. Brokers in Germany are required to offer you a transfer of your account and cover the costs. 
+
+- This is not always the case with foreign providers – for example, DeGiro charges for transfers.
+
+The transfer process is straightforward: You request an account transfer from your broker, sign the application, and wait a few days. This keeps you flexible – your choice of brokerage provider is not set in stone.
+
+{{< /spoiler >}}
+
+
+
 ## How to Get Your Securities Account
 
 ### Open a securities account
@@ -158,3 +209,4 @@ Before placing your first orders, your broker will ask you if you have experienc
 ## Reference
 
 - [Das richtige Depot für ETFs wählen](https://www.finanzfluss.de/etf-handbuch/depot-waehlen/)
+- [Depot eröffnen Schritt-für-Schritt](https://www.finanzfluss.de/etf-handbuch/depot-eroeffnen/)
