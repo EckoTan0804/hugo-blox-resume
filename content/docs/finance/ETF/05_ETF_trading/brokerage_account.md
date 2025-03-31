@@ -73,19 +73,44 @@ Although the fees for trading ETFs have generally decreased, you can save a lot 
 
 Here is an overview of the cost models:
 
-### Account Maintenance Fees
+### Account maintenance fees
 
 There are account maintenance fees – this is either a fixed amount charged monthly or annually, or a specific percentage of the account balance, which can become expensive for large accounts.
 
-Many accounts are even free: either for the first few months or permanently. Others have conditions that you must meet to keep them free, such as maintaining a Comdirect checking account or having an active savings plan.
+Many accounts are even <u>free</u>: either for the first few months or permanently. Others have conditions that you must meet to keep them free, such as maintaining a Comdirect checking account or having an active savings plan.
 
-### Transaction Costs
+### Transaction Ccsts / Oder fees
 
 Transaction costs are charged per order. These can vary significantly, so you should definitely compare providers to find the best solution for your investment strategy.
 
 - Some providers charge a certain percentage per order, such as 0.2%. For one-time ETF investments with larger amounts, fees can add up quickly! ->  In this case, a provider with **flat fees per order** might be more suitable.
-
 - Hybrid model: you pay a small amount per order plus a percentage of the fee
+
+### Trading Venue
+
+In addition to order fees, some brokers charge a trading venue fee, which depends on **where the trade is executed**. 
+
+- The cheapest options are electronic trading platforms like Gettex, Tradegate, or Quotrix. 
+- Traditional stock exchanges, such as those in Frankfurt or Stuttgart, tend to have higher fees. 
+- The largest electronic trading venue in Germany is Xetra, handling around 90% of stock trading, but it has relatively high fees. Trading on foreign exchanges usually incurs even higher fees.
+
+### Savings plan fees
+
+If you regularly invest in an ETF or stock through a savings plan, pay attention to the associated costs. Many neo-brokers offer free savings plans.
+
+###Spread
+
+The spread is the difference between the buying and selling price of a security. 
+
+- Markets with high trading volumes generally have lower spreads. 
+
+Xetra is the leading exchange for German stocks, and while it has higher order fees, it may be worthwhile for large trades due to its lower spreads.
+
+Spreads are generally lowest when the main exchange is open. -> So it’s best to trade between **Monday and Friday, 9:00 AM – 5:30 PM.** Trading outside these hours results in higher spreads, increasing your costs.
+
+### Additional Services
+
+Some services, such as registering for shareholder meetings or being listed in the shareholder register, often come with extra fees.
 
 ## How to Find the Right Securities Account
 
@@ -210,3 +235,4 @@ Before placing your first orders, your broker will ask you if you have experienc
 
 - [Das richtige Depot für ETFs wählen](https://www.finanzfluss.de/etf-handbuch/depot-waehlen/)
 - [Depot eröffnen Schritt-für-Schritt](https://www.finanzfluss.de/etf-handbuch/depot-eroeffnen/)
+- [Depot-Vergleich 2025](https://www.finanzfluss.de/vergleich/depot/)
