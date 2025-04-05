@@ -54,6 +54,22 @@ header:
 
 {{% /callout %}}
 
+## Who is an ETF Savings Plan Suitable For?
+
+The ETF savings plan is ideal for investors or savers whose goal is to build wealth **over the long term**.
+
+The ETF savings plan also offers flexibility. You can sell your ETF holdings at any time or cancel the savings plan entirely, providing quick liquidity if needed.
+
+## How an ETF Savings Plan Works
+
+With an ETF savings plan, shares of a specific ETF that you have chosen are purchased monthly (or at another frequency). The <u>amount</u> and <u>frequency</u> of the savings contribution are up to you.
+
+
+
+
+
+## How to Set a Saving Plan
+
 {{% steps %}}
 
 ### Set Your Savings Rate
@@ -136,3 +152,4 @@ At the very end, simply review and confirm the details of your ETF savings plan.
 ## Reference
 
 - [ETF Sparplan einrichten](https://www.finanzfluss.de/etf-handbuch/etf-sparplan/)
+- [ETF Sparplan Vergleich](https://www.finanzfluss.de/vergleich/etf-sparplan/)
