@@ -56,8 +56,10 @@ Many investors are intimidated by dealing with the taxes due when it comes to ET
 
 The taxes on ETF investments consist of three components: 
 
+<img src="https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2025-04-06%2021.33.26.png" alt="截屏2025-04-06 21.33.26" style="zoom: 33%;" />
+
 - capital gains tax (25%)
-- solidarity surcharge (5.5%)
+- solidarity surcharge (5.5% of capital gain tax)
 - possibly church tax (8% or 9%)
 
 ### Capital Gains Tax 25%
@@ -141,7 +143,7 @@ The preliminary flat rate is generally **lower** than the tax on distributions.
 - It is also possible that a preliminary flat rate will be charged in addition to the distributions for a distributing fund. 
 - However, the tax burden on an accumulating fund is at most as high as that of the distributing fund. This is why the deferral effect usually applies to the distributing fund. This is very attractive for long-term investors.
 
-The saver’s allowance provides opportunities for investors to save on taxes. Both methods take advantage of the saver’s allowance (Sparerpauschbetrag), as tax-free fund income is not taxed again—such as during the final sale. Therefore, it makes sense to fully utilize the saver’s allowance, for example, by using distributing ETFs.
+The saver’s allowance (Sparerpauschbetrag) provides opportunities for investors to save on taxes. Both methods take advantage of the saver’s allowance, as tax-free fund income is not taxed again—such as during the final sale. Therefore, it makes sense to fully utilize the saver’s allowance, for example, by using distributing ETFs.
 
 - Many brokers offer automatic reinvestment, allowing the distributing ETF to cover its income with the saver’s allowance while still providing the compound interest effect of an accumulating ETF. 
 - Alternatively, sales can also be made with an accumulating ETF. In this case, just enough shares are sold to fully utilize the saver’s allowance.
