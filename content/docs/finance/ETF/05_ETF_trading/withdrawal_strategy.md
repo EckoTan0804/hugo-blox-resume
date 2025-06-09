@@ -104,4 +104,4 @@ Conclusion: **hybrid** forms of fixed decoupling plans within the framework of f
 
 ## Reference
 
-- https://www.finanzfluss.de/etf-handbuch/portfolio-entsparen/ETF Portfolio richtig entsparen](https://www.finanzfluss.de/etf-handbuch/portfolio-entsparen/)
+- [Portfolio richtig entsparen](https://www.finanzfluss.de/etf-handbuch/portfolio-entsparen/)
