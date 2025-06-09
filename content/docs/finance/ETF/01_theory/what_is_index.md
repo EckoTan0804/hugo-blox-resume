@@ -53,7 +53,7 @@ An index is calculated to illustrate price developments.
 
 {{< spoiler text="Example" >}}
 
-The ***\*Consumer Price Index (CPI)\**** is determined by the Federal Statistical Office of Germany, which examines the prices of ***\*650 goods\**** each month. These goods represent what German households typically consume, including categories like food, housing, and transportation. Every month, the prices of the same basket of goods are checked. By analyzing the price changes of this basket, inflation can be measured.
+The **Consumer Price Index (CPI)** is determined by the Federal Statistical Office of Germany, which examines the prices of **650 goods** each month. These goods represent what German households typically consume, including categories like food, housing, and transportation. Every month, the prices of the same basket of goods are checked. By analyzing the price changes of this basket, inflation can be measured.
 
 
 {{< /spoiler >}}
