@@ -1,12 +1,12 @@
 ---
 # ===== Title, summary, and position in the left sidebar =====
-linktitle: Etf Disadvantages  # Title shown in the left sidebar menu
+linktitle: ETF Disadvantages  # Title shown in the left sidebar menu
 summary:  # Summary of this post
 weight: 105 # Position in the left sidebar
 # ============================================================
 
 # ========== Basic metadata ==========
-title: Etf Disadvantages
+title: ETF Disadvantages
 date: 2025-03-07
 draft: false
 authors:

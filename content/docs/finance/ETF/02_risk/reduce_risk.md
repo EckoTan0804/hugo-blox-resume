@@ -61,7 +61,7 @@ Relying on a single company is risky due to factors like competition, regulation
 
 You can eliminate company-, sector-, and country-specific risks through **diversification**.
 
-- nstead of picking a few stocks, invest in **hundreds or thousands of companies** across industries, regions, and continents. 
+- Instead of picking a few stocks, invest in **hundreds or thousands of companies** across industries, regions, and continents. 
 - The easiest way to achieve this is by **investing in globally diversified ETFs**, reducing the impact of company bankruptcies, regional downturns, or industry slumps on your portfolio.
 
 ## Individual Stocks vs. Germany vs. Global Index
@@ -93,11 +93,11 @@ Over a 10 to 15-year period, investors have consistently achieved positive retur
 
 
 
-## Avoid panic selling
+## Avoid Panic Selling
 
 If you had sold at the worst possible moment, you would have realized a loss. However, if you had waited out the downturn, you would have seen gains after 10–15 years. It’s important to stay calm, even when your portfolio shows losses for a while. **Historically, the stock market has always recovered over time 📈.**
 
-## Risk-conscious investing pays off
+## Risk-conscious Investing Pays off
 
 There is always a residual risk that cannot be diversified away: an emergency might arise, requiring a large sum of money, or the economy could enter a crisis. That’s why you should only invest as much as your personal risk tolerance allows.
 
