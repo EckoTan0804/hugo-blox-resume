@@ -113,7 +113,7 @@ The amount of the partial exemption rate depends on the composition of the fund.
 | Mixed Funds       | ≥25% Equity Share | 15%                    |
 | Mixed Funds       | <25% Equity Share | 0%                     |
 
-Nzheote: the partial exemption rate does not apply to ETFs that synthetically replicate the capital market through swaps, known as fully funded swap ETFs. This is because the exemption only applies to actual capital investments in the market. However, fully funded swaps are relatively rare in the ETF market.
+Note: the partial exemption rate does not apply to ETFs that synthetically replicate the capital market through swaps, known as fully funded swap ETFs. This is because the exemption only applies to actual capital investments in the market. However, fully funded swaps are relatively rare in the ETF market.
 
 ### Low earners: Tax-free thanks to the non-assessment certificate
 

@@ -59,7 +59,7 @@ Investing in the stock market always involves risks. You can **counteract and mi
 
 Your investment strategy should **fit your personality, allowing you to sleep soundly during market fluctuations**. Otherwise, you risk selling at the wrong time and losing money.
 
-This defines your personal risk tolerancem which is reflected in how much volatility and loss you can endure before changing your behavior (more see Rick Ferri's book "All About Asset Allocation"). You often only discover how market fluctuations affect you **once you start investing**. Many people **overestimate their risk tolerance** and only realize it after experiencing a loss following years of gains.
+This defines your personal risk tolerance which is reflected in how much volatility and loss you can endure before changing your behavior (more see Rick Ferri's book "All About Asset Allocation"). You often only discover how market fluctuations affect you **once you start investing**. Many people **overestimate their risk tolerance** and only realize it after experiencing a loss following years of gains.
 
 ## Diversify Your Wealth
 
@@ -78,7 +78,7 @@ This defines your personal risk tolerancem which is reflected in how much volati
 
 Regardless of your investments, you should build an **emergency fund**. Depending on your life situation, keep around **3 months’ net salary** in a checking or savings account.
 
-### Risky Investments
+### Risky investments
 
 Risky investments are those **without guarantees** but with **significant fluctuations**. 
 
@@ -104,7 +104,7 @@ With a government bond, you lend money to a country (e.g., Germany) for a fixed 
 
 {{% /callout %}}
 
-### Low-Risk Investments
+### Low-risk investments
 
 The **low-risk portion** of your portfolio reduces overall risk and cushions fluctuations. Remeber: It is not meant to generate high returns! Truly risk-free investments do <u>*not*</u> exist—even cash in your wallet carries some risk. However, certain investment types have proven to be low-risk over time.
 
@@ -123,7 +123,7 @@ The **low-risk portion** of your portfolio reduces overall risk and cushions flu
 
 {{% /callout %}}
 
-## Finding the Right Balance
+### Finding the right balance
 
 The **risky portion** of your portfolio generates returns, while the **low-risk portion** provides stability by reducing overall fluctuations. These two parts complement each other.
 

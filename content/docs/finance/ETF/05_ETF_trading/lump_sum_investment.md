@@ -46,7 +46,7 @@ header:
 
 - Should you invest in ETFs as a lump sum or through a savings plan? That depends on your strategy and how much money you have already set aside.
 
-- As a buy-and-hold investor, you should only invest an amount that you can afford to do without for the next 10 years. This way, you benefit from long-term market development and avoid having to sell your ETFs under unfavorable conditions in the short term.
+- As a buy-and-hold investor, you should only invest an amount that you can afford to do <u>**without**</u> for the next 10 years. This way, you benefit from long-term market development and avoid having to sell your ETFs under unfavorable conditions in the short term.
 
 - To make a lump sum investment in ETFs, you need to open a brokerage account and deposit money into it.
 
@@ -97,7 +97,7 @@ We recommend investing passively in ETFs. This saves time, reduces stress, and g
 
 ## What You Should Consider When Making a Lump-Sum ETF Investment
 
-**Only invest in stock ETFs with money that you wo NOT need for the next few years!**
+**Only invest in stock ETFs with money that you do <u>NOT</u> need for the next few years!**
 
 - If you require the money for a major purchase, you might be forced to sell at an unfavorable time, potentially realizing temporary losses and losing money. 
 
