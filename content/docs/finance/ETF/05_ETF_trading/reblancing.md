@@ -121,7 +121,7 @@ This can be done by
 
 👎 <span style="color: #d65d48;">Limitation: When the size of your portfolio is already large, but your savings plans have a relatively small savings rate. In such cases, it is often more efficient to buy or sell shares directly.</span>
 
-###Rebalancing through partial sales and purchases
+### Rebalancing through partial sales and purchases
 
 When dealing with larger amounts or if you're not investing through savings plans, you have the following option: **You can sell (part of) your shares and buy new ones to balance your portfolio**.
 
