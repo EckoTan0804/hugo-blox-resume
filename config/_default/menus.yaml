@@ -126,9 +126,14 @@ main:
   url: docs/finance/
   identifier: finance
   weight: 600
-- name: "Personal Finance"
-  url: docs/finance/personal-finance
-  identifier: personal-finance
+# - name: "Personal Finance"
+#   url: docs/finance/personal-finance
+#   identifier: personal-finance
+#   parent: finance
+#   weight: 601
+- name: "Book"
+  url: docs/finance/book
+  identifier: finance-book
   parent: finance
   weight: 601
 - name: "ETF"
