@@ -183,13 +183,13 @@ If you want to close an account, pay off enough debt first to keep your credit u
 
 ## Debt
 
-### When Credit Cards Go Bad
+### When credit cards go bad
 
 Just like with gaining weight, most people don’t get into serious credit card debt overnight. Instead, things go wrong *little by little* until they realize they’ve got a serious problem. The good news is that **credit card debt is almost always manageable if you have a plan and take disciplined steps to reduce it. Yes, it’s hard, but you *can* get out of debt**.
 
 The key to using credit cards effectively is to pay off your credit card **in full** every month.
 
-### Pay Your Debt Off Aggressively
+### Pay your debt off aggressively
 
 If you’ve found yourself in credit card debt—whether it’s a lot or a little—you have a triple whammy working against you:
 
@@ -201,7 +201,7 @@ Make sacrifices to pay off your debt quickly. Otherwise, you’re costing yourse
 
 If you set up automatic payments and work your debt down, you won’t pay fees anymore. You won’t pay finance charges. You’ll be free to grow your money by looking ahead.
 
-## Steps to Ridding Yourself of Credit Card Debt
+### Steps to ridding yourself of credit card debt
 
 {{< spoiler text="1. Figure out how much debt you have." >}}
 - You can’t make a plan to pay off your debt until you know exactly how much you owe. It might be painful to learn the truth, but you have to bite the bullet.
@@ -231,7 +231,7 @@ Try negotiating down your APR. It works surprisingly often and if it doesn’t, 
 - **Better option: call and negotiate the APR down on your current accounts.**
 {{< /spoiler >}}
 
-## How to Get Out of Your **Credit Card Debt in a Right Way**
+### How to get Out of Your credit card debt in a right way
 
 - First, you need the cash flow.
 
