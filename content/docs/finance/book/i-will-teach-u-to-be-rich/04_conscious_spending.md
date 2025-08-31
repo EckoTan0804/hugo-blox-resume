@@ -38,7 +38,7 @@ header:
 
 Create a Conscious Spending Plan.
 
-By planning where you want your money to go ahead of time, you could make sure you were saving and investing enough money each month, and then use the rest of your money guilt- free for whatever you want.
+By planning where you want your money to go ahead of time, you could make sure you were saving and investing enough money each month, and then use the rest of your money guilt-free for whatever you want.
 
 ## **The Difference Between Cheap and Frugal**
 
@@ -96,15 +96,12 @@ Conscious spending means you decide exactly where you’re going to spend your m
 
 A Conscious Spending Plan involves four major buckets where your money will go:
 
-| **Category**                                                | **Percentage of take-home pay** |
-| ----------------------------------------------------------- | ------------------------------- |
-| Fixed costs                                                 |                                 |
-| (Rent, utilities, debt, etc)                                | 50-60%                          |
-| Investments                                                 | 10%                             |
-| Savings                                                     |                                 |
-| (Vacations, gifts, house down payment, unexpected expenses) | 5 - 10%                         |
-| Guilt-free spending money                                   |                                 |
-| (Dining out, drinking, movies, clothes, shoes)              | 20 - 35%                        |
+| **Category**                                                 | **Percentage of take-home pay** |
+| ------------------------------------------------------------ | ------------------------------- |
+| Fixed costs (Rent, utilities, debt, etc)                     | 50-60%                          |
+| Investments                                                  | 10%                             |
+| Savings (Vacations, gifts, house down payment, unexpected expenses) | 5 - 10%                         |
+| Guilt-free spending money (Dining out, drinking, movies, clothes, shoes) | 20 - 35%                        |
 
 - Fixed Costs
 
@@ -191,11 +188,11 @@ What you need to do:
 
 ## **Maintaining Your Spending Plan**
 
-**O**nce you’ve done what you can to design and implement a Conscious Spending Plan that you’re comfortable with, give yourself some time to settle into a rhythm with it.
+Once you’ve done what you can to design and implement a Conscious Spending Plan that you’re comfortable with, give yourself some time to settle into a rhythm with it.
 
 As you go along from month to month with this new system, you’ll discover some surprises you hadn’t anticipated.
 
-### **How to Handle Unexpected and Irregular Expenses**
+### **How to handle unexpected and irregular expenses**
 
 - ***Known irregular events***
 
@@ -204,11 +201,11 @@ As you go along from month to month with this new system, you’ll discover some
 - ***Unknown irregular events***
 
   - Starting by allocating $50/month for unexpected expenses
-  - if luckily there is money left over in the account by the end of the year: save half of it—and spend half on something fun.
+  - If luckily there is money left over in the account by the end of the year: save half of it—and spend half on something fun.
 
 With each month that goes by, you’ll get a more accurate picture of your spending. After about a year or two, you’ll have a very accurate understanding of how to project. The beginning is hard, but it only gets easier.
 
-### **The “Problem” of Extra Income**
+### **The “problem” of extra income**
 
 - **Unexpected one-time income**
   - Use 50 percent of it for fun —usually buying something I’ve been eyeing for a long time

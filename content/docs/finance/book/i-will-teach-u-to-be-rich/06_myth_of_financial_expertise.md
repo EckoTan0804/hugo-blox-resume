@@ -38,7 +38,7 @@ header:
 
 Being rich is within *your* control, not some expert’s. How rich you are depends on the amount you’re able to save and on your investment plan.
 
-## Experts can NOT guess where the market is going.
+## Experts Can NOT Guess Where the Market is Going.
 
 **The only long-term solution is to invest regularly, putting as much money as possible into low-cost, diversified funds, even in an economic downturn. This is why long-term investors have a phrase they use: Focus on time in the market, not timing the market**
 

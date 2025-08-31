@@ -66,7 +66,7 @@ Ignore the noise. Remember: **investing shouldn’t be dramatic or even fun—it
 - Log in to your investment account no more than once a month—that’s it. If you’ve set up your asset allocation and are consistently funding it, stick to your guns.
 -  There are no tricks or hacks to long-term personal finance. Live your Rich Life outside the spreadsheet doing things that matter, instead of "living in the spreadsheet".
 
-### How to Help Parents Who are in Debt
+### How to help parents who are in debt
 
 This is one of the most difficult situations you may face in your financial life: r**
 
@@ -148,7 +148,7 @@ This is one of the most difficult situations you may face in your financial life
     
     {{< /spoiler >}}
 
-### The big meeting
+#### The big meeting
 
 This is the big day when you both lay bare all your finances and work through them together. 
 
@@ -200,7 +200,7 @@ Objectives
 - Avoid overwhelming big purchases at this stage.
 - Shared goals strengthen commitment and teamwork.
 
-### When one person earns more than the other
+#### When one person earns more than the other
 
 How to handle money on a daily basis — especially if one of you has a higher income than the other. 
 
@@ -212,7 +212,7 @@ How to handle money on a daily basis — especially if one of you has a higher i
 
 Discuss it, come to an agreement that feels fair. Then check in every six to twelve months to make sure your agreement is still working for both of you.
 
-### What to do if your partner spends money irresponsibly
+#### What to do if your partner spends money irresponsibly
 
 - Directly criticizing a partner’s spending usually backfires - People absolutely hate to be judged for their spending,
 - Shift focus from **the person** to **the plan**:
@@ -226,14 +226,14 @@ Discuss it, come to an agreement that feels fair. Then check in every six to twe
   - Different priorities are okay (e.g., one values organic food, the other travel).
   - As long as the shared goals are met, individual spending choices can vary.
 
-### Wedding
+#### Wedding
 
 - Cutting guest count doesn’t reduce costs as much as expected: 50% fewer guests = only ~25% lower costs.
 - Major savings come from **fixed costs**. -> Strategies:
   - Negotiate venue and catering.
   - Look for cheaper alternatives in fixed costs (e.g., photographer, invitations).
 
-### Should you sign a prenup?
+#### Should you sign a prenup?
 
 - Who needs a prenup?
   - Most people don’t (≈99%).
@@ -250,7 +250,7 @@ Discuss it, come to an agreement that feels fair. Then check in every six to twe
 
 **Negotiating your salary at a new job is the fastest legal way to make money.** Your starting salary is even more important than you think, because it sets the bar for future raises and, in all likelihood, your starting salary at future jobs. 
 
-### **Negotiating Your Salary**
+### **Negotiating your salary**
 
 - The single best time to negotiate salary is when you’re starting a new job.
 - Negotiating is **90% about mindset** and **10% about tactics**.
