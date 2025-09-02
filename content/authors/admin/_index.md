@@ -24,8 +24,8 @@ role: Software Concept Developer / Innovation Manager for Algorithms
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Continental
-    url: "https://www.continental.com/en/"
+  - name: Aumovio (formerly Continental Automotive)
+    url: "https://www.aumovio.com/en.html"
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -80,11 +80,19 @@ education:
 
 work:
   - position: Software Concept Developer / Innovation Manager for Algorithms
+    company_name: Aumovio 
+    company_url: 'https://www.aumovio.com/en.html'
+    company_logo: 'custom/aumovio'
+    date_start: 2025-09-01
+    date_end: ''
+    summary: 'Since September 2025, Continental’s Automotive business has officially spun off and continues under the new name **Aumovio**. My role transitioned seamlessly with the spin-off, ensuring continuity of responsibilities and expertise.'
+
+  - position: Software Concept Developer / Innovation Manager for Algorithms
     company_name: Continental
     company_url: 'https://www.continental.com/en/'
     company_logo: 'custom/continental'
     date_start: 2022-11-01
-    date_end: ''
+    date_end: 2025-08-31
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
