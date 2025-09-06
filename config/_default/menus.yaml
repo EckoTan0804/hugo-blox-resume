@@ -142,6 +142,16 @@ main:
   parent: finance
   weight: 610
 
+- name: "📚 Reading"
+  url: docs/reading/
+  identifier: reading
+  weight: 700
+- name: "Atomic Habits"
+  url: docs/reading/atomic-habits
+  identifier: atomic-habits
+  parent: reading
+  weight: 701
+
   
 # - name: "\U0001F4DD Notes"
 #   url: docs/notes/
@@ -196,4 +206,4 @@ main:
 - name: "\U0001F9FE R\xE9sum\xE9"
   url: uploads/resume.pdf
   identifier: resume
-  weight: 800
+  weight: 1000
