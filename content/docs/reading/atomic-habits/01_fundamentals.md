@@ -204,6 +204,8 @@ There are three levels at which change can occur:
 
 When it comes to building habits that last, the problem is not that one level is “better” or “worse” than another - all levels of change are useful in their own way. <span style="color: #d65d48;">The problem is the ***direction* of change**: Most people focus on outcomes (goals), which leads to **outcome-based habits**</span>.
 
+![截屏2025-09-07 20.12.09](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2025-09-07%2020.12.09.png)
+
 A more durable approach is **identity-based habits**: Instead of focusing on "What do I want to achieve?" (the result/outcome/goal),  begin with focusing on **“Who do I want to become?”** (the identity).
 
 Lasting habit change requires identity change, not just behavior tweaks.
@@ -325,6 +327,210 @@ Better habits aren’t about life hacks or external metrics but about becoming a
 
 {{% /callout %}}
 
-
-
 ## How to Build Better Habits in 4 Simple Steps
+
+> “Behaviors followed by satisfying consequences tend to be repeated and those that produce unpleasant consequences are less likely to be repeated.”
+> --- Edward Thorndike
+
+### Why your brain builds habits
+
+A **habit** is a behavior that has been repeated enough times to become automatic.
+
+ The process of habit formation begins with trial and error.
+
+- Whenever you encounter a new situation in life, your brain has to make a decision: "⁠ *How do I respond to this?*" 
+  - The first time you come across a problem, you’re not sure how to solve it.
+  - Neurological activity in the brain is high during this period. 
+    - You are carefully analyzing the situation and making conscious decisions about how to act. 
+    - You’re taking in tons of new information and trying to make sense of it all. 
+    - The brain is busy learning the most effective course of action.
+- When a rewarding solution appears, the brain tags the preceding cues and actions.
+
+-> This is the feedback loop behind all human behavior: **try, fail, learn, try differently.** 
+
+With practice, the useless movements fade away and the useful actions get reinforced -- That’s a **habit forming**.
+
+- Whenever you face a problem repeatedly, your brain begins to automate the process of solving it. 
+- Your habits are just a series of automatic solutions that solve the problems and stresses you face regularly.
+
+As habits are created, the level of activity in the brain decreases ⬇️.
+
+- You learn to lock in on the cues that predict success and tune out everything else. 
+- When a similar situation arises in the future, you know exactly what to look for. There is no longer a need to analyze every angle of a situation. 
+- Your brain skips the process of trial and error and creates a mental rule: *if this, then that*. These cognitive scripts can be followed automatically whenever the situation is appropriate. 
+
+Habits are <u>mental shortcuts</u> learned from experience.
+
+- A habit is just a memory of the steps you previously followed to solve a problem in the past. 
+- Whenever the conditions are right, you can draw on this memory and automatically apply the same solution.
+
+Habit formation is incredibly useful because the conscious mind is the bottleneck of the brain.
+
+- Your brain is always working to preserve your conscious attention for whatever task is most essential.
+-  Whenever possible, the conscious mind likes to pawn off tasks to the nonconscious mind to do automatically.
+- Habits reduce cognitive load and free up mental capacity, so you can allocate your attention to other tasks.
+
+(Good) Habits do NOT restrict freedom, they create it.
+
+- People who don’t have their habits handled are often the ones with the least amount of freedom.
+  {{< spoiler text="Example" >}}
+
+  - Without good financial habits, you will always be struggling for the next dollar. 
+  - Without good health habits, you will always seem to be short on energy. 
+  - Without good learning habits, you will always feel like you’re behind the curve. 
+
+  {{< /spoiler >}}
+
+- Building solid habits lets you create the mental space needed for free thinking and creativity, and focus on creativity, new challenges, and future goals.
+
+### The science of how habits work
+
+The process of building every habit can be divided into four simple steps: ⁠⁠cue, craving, response, and reward⁠.
+
+![截屏2025-09-12 12.10.18](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2025-09-12%2012.10.18.png)
+
+{{< spoiler text="Cue" >}}
+
+*Noticing the reward*
+
+- The cue triggers your brain to initiate a behavior. It is a bit of information that predicts a reward.
+- Your mind is continuously analyzing your internal and external environment for hints of where rewards are located.
+- The cue is the first indication that we’re close to a reward, it naturally leads to a craving.
+
+
+{{< /spoiler >}}
+
+{{< spoiler text="Craving" >}}
+
+*Wanting the reward*
+
+- Craving are the motivational force behind every habit. Without some level of motivation or desire—without craving a change—we have no reason to act.
+- We crave not the habit itself but the *state* change it delivers (e.g., relief, cleanliness, entertainment). Every craving is linked to a desire to change your internal state.
+- Cravings vary by individual; different people respond to different cues.
+- Cues are meaningless until interpreted by the observer’s thoughts, feelings, and emotions.
+
+
+{{< /spoiler >}}
+
+{{< spoiler text="Response" >}}
+
+*Obtaining the reward*
+
+- The response is ⁠⁠the actual habit you perform⁠⁠, which can take the form of a thought or an action.
+- The response occurs only if motivation outweighs the behavior’s friction/effort.
+- Ability constraints matter: a habit can form only if you can physically/mentally do it.
+
+
+{{< /spoiler >}}
+
+{{< spoiler text="Reward" >}}
+
+Rewards are the end goal of every habit. We chase rewards because they serve two purposes:
+
+- Rewards satisfy our craving - rewards deliver contentment and relief from craving.
+- Rewards teach us which actions are worth remembering in the future.
+  - Your brain is a reward detector. Your sensory nervous system is continuously monitoring which actions satisfy your desires and deliver pleasure. 
+  - Feelings of pleasure and disappointment are part of the feedback mechanism that helps your brain distinguish useful actions from useless ones.
+  - Rewards close the feedback loop and complete the habit cycle.
+
+
+{{< /spoiler >}}
+
+⁠⁠If a behavior is insufficient in any of the four stages, it will NOT become a habit.⁠
+
+- Eliminate the <u>cue</u> and your habit will never start. 
+- Reduce the <u>craving</u> and you won’t experience enough motivation to act. 
+- Make the behavior/<u>response</u> difficult and you won’t be able to do it. 
+- If the <u>reward</u> fails to satisfy your desire, then you’ll have no reason to do it again in the future.
+
+### The habit loop
+
+These four steps form a neurological feedback loop, known as the **habit loop**
+
+![截屏2025-09-12 22.19.09](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2025-09-12%2022.19.09.png)
+
+- The cue triggers a craving, which motivates a response, which provides a reward, which satisfies the craving and, ultimately, becomes associated with the cue. 
+
+- It is an endless feedback loop that is running and active during every moment: The brain is continually scanning the environment, predicting what will happen next, trying out different responses, and learning from the results.
+
+These four steps can be split into two phases
+
+| Phase          | Steps                      | When                                                   |
+| -------------- | -------------------------- | ------------------------------------------------------ |
+| Problem phase  | 1. Cue<br />2. Craving     | When you realize that something needs to change        |
+| Solution phase | 3. Response<br />4. Reward | When you take action and achieve the change you desire |
+
+{{< spoiler text="Example 1" >}}
+
+![截屏2025-09-12 22.28.10](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2025-09-12%2022.28.10.png)
+
+
+{{< /spoiler >}}
+
+{{< spoiler text="Example 2" >}}
+
+![截屏2025-09-12 22.35.56](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2025-09-12%2022.35.56.png)
+
+
+{{< /spoiler >}}
+
+{{< spoiler text="Example 3" >}}
+
+![截屏2025-09-12 22.36.57](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2025-09-12%2022.36.57.png)
+
+{{< /spoiler >}}
+
+{{< spoiler text="Example 4" >}}
+
+![截屏2025-09-12 22.37.23](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2025-09-12%2022.37.23.png)
+
+{{< /spoiler >}}
+
+{{< spoiler text="Example 5" >}}
+
+![截屏2025-09-12 22.37.53](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2025-09-12%2022.37.53.png)
+
+{{< /spoiler >}}
+
+{{< spoiler text="Example 6" >}}
+
+![截屏2025-09-12 22.38.12](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2025-09-12%2022.38.12.png)
+
+{{< /spoiler >}}
+
+| Phase          | Step         | Relationship to reward      | Note                                                         | Example                                                      |
+| -------------- | ------------ | --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Problem phase  | **Cue**      | Noticing the reward         | A bit of information that predicts a reward, which triggers your brain to initiate a behavior | *You walk into a dark room.*                                 |
+| Problem phase  | **Craving**  | Wanting the reward (desire) | <li/>The motivational force behind every habit.<br /><li/>We crave not the habit itself but the state change it delivers (e.g., relief, cleanliness, entertainment).<br/><li/>Every craving reflects a desire to alter our internal state.<br/><li/>Cravings vary by individual; different people respond to different cues. | *You want to be able to see.*                                |
+| Solution phase | **Response** | Obtaining the reward        | <li/>⁠⁠The actual habit you perform⁠⁠, which can take the form of a thought or an action.<br /><li/>Occurs only if motivation outweighs the behavior’s friction/effort.<br /><li/>Ability constraints matter. | *You flip the light switch.*                                 |
+| Solution phase | **Reward**   |                             | The end goal of every habit.<br />We chase rewards because they serve two purposes:<br /><li/>Rewards satisfy our craving<br /><li/>Rewards teach us which actions are worth remembering in the future. | *You satisfy your craving to see. Turning on the light switch becomes associated with being in a dark room.* |
+
+### The four laws of behavior change
+
+This framework is called **Four Laws of Behavior Change**, which provides a simple set of rules for creating good habits and breaking bad ones.
+
+- Each law acts as a lever that influences human behavior. ⁠
+- When the levers are in the right positions, creating good habits is effortless. When they are in the wrong positions, it is nearly impossible.
+
+| Step     | Laws to create a good habit | Break a bad habit     |
+| -------- | --------------------------- | --------------------- |
+| Cue      | Make it obvious.            | Make it invisible.    |
+| Craving  | Make it attractive.         | Make it unattractive. |
+| Response | Make it easy.               | Make it difficult.    |
+| Reward   | Make it satisfying.         | Make it unsatisfying. |
+
+The key to creating good habits and breaking bad ones is to understand these fundamental laws and how to alter them to your specifications. Every goal is doomed to fail if it goes against the grain of human nature.
+
+{{% callout note %}}
+**💡Take Away**
+
+- A habit is a behavior that has been repeated enough times to become automatic.
+- The ultimate purpose of habits is to solve the problems of life with as little energy and effort as possible.
+- Any habit can be broken down into a feedback loop that involves four steps: cue, craving, response, and reward.
+- The Four Laws of Behavior Change are a simple set of rules we can use to build better habits. They are 
+  1. make it obvious
+  2. make it attractive
+  3. make it easy
+  4. make it satisfying
+
+{{% /callout %}}
