@@ -52,7 +52,7 @@ Habits can be
 - Useful: You can notice an opportunity and take action without dedicating conscious attention to it. Or
 - Dangerous: Your actions come under the direction of your automatic and nonconscious mind. You fall into old patterns before you realize what’s happening.
 
-Behavior change starts with awareness: make the unconscious conscious.
+Behavior change starts with **awareness: make the unconscious conscious**.
 
 ### The habit scorecard
 
@@ -74,7 +74,7 @@ This process, known as ⁠⁠**Pointing-and-Calling⁠**⁠, is a safety system 
 
 {{< /spoiler >}}
 
-The more automatic a behavior becomes, the *less* likely we are to consciously think about it.
+The *more automatic* a behavior becomes, the *less likely* we are to consciously think about it.
 
 - When we’ve done something a thousand times before, we begin to overlook things - We assume that the next time will be just like the last. 
 - We’re so used to doing what we’ve always done that we don’t stop to question whether it’s the right thing to do at all. Many of our failures in performance are largely attributable to a lack of self-awareness.
@@ -109,7 +109,7 @@ How to rate the habit?
 
 - There are no good habits or bad habits. There are only **effective** habits - effective at solving problems.
 
-  -> categorize your habits by how they will benefit you *in the long run*: good habits will have net positive outcomes, while bad habits have net negative outcomes.
+  -> Categorize your habits by how they will benefit you *in the long run*: good habits will have net positive outcomes, while bad habits have net negative outcomes.
 
 - When you’re having trouble determining how to rate a particular habit, ask yourself: “Does this behavior help me become the type of person I wish to be? Does this habit cast a vote for or against my desired identity?”
 
@@ -148,8 +148,9 @@ The process of behavior change always starts with **awareness**. The first step 
 
 {{% /callout %}}
 
-
 ## The Best Way to Start a New Habit
+
+### Implementation intentions
 
 The two most common cues that can trigger a habit are: **time** and **location**.
 
@@ -301,17 +302,176 @@ Habit stacking works best when **the cue is highly specific and immediately acti
 {{% callout note %}}
 **💡Take Away**
 
-- The 1st Law of Behavior Change is make it obvious.
-- The two most common cues are time and location.
-- Creating an implementation intention is a strategy you can use to pair a new habit with a specific time and location.
-- The implementation intention formula is: I will [BEHAVIOR] at [TIME] in [LOCATION].
-- Habit stacking is a strategy you can use to pair a new habit with a current habit.
-- The habit stacking formula is: After [CURRENT HABIT], I will [NEW HABIT].
+- The 1st Law of Behavior Change is **make it obvious**.
+- The two most common cues are **time** and **location**.
+- Creating an **implementation intention** is a strategy you can use to pair a new habit with a specific time and location.
+  - The implementation intention formula is: **I will [BEHAVIOR] at [TIME] in [LOCATION]**.
+
+- **Habit stacking** is a strategy you can use to pair a new habit with a current habit.
+  - The habit stacking formula is: **After [CURRENT HABIT], I will [NEW HABIT]**.
+
 
 {{% /callout %}}
 
 
 
+## Motivation is Overrated; Environment Often Matters More
 
+Environment is the invisible hand that shapes human behavior.
+
+- People often choose products not because of what they are, but because of where they are.
+
+  {{< spoiler text="Example" >}}
+  ANNE THORNDIKE, A primary care physician at Massachusetts General Hospital in Boston, had a crazy idea. She believed she could improve the eating habits of thousands of hospital staff and visitors without changing their willpower or motivation in the slightest way. In fact, she didn’t plan on talking to them at all.
+  Thorndike and her colleagues designed a six-month study to alter the “choice architecture” of the hospital cafeteria. They started by changing how drinks were arranged in the room. Originally, the refrigerators located next to the cash registers in the cafeteria were filled with only soda. The researchers added water as an option to each one. Additionally, they placed baskets of bottled water next to the food stations throughout the room. Soda was still in the primary refrigerators, but water was now available at all drink locations.
+  Over the next three months, the number of soda sales at the hospital dropped by 11.4 percent. Meanwhile, sales of bottled water increased by 25.8 percent. They made similar adjustments—and saw similar results—with the food in the cafeteria. Nobody had said a word to anyone eating there.
+  
+  {{< /spoiler >}}
+
+- Your habits change depending on the room you are in and the cues in front of you. ⁠
+  - The most common form of change is not internal, but external: we are changed by the world around us. 
+  - Every habit is context dependent.⁠⁠
+
+Behavior is a function of the Person in their Environment, or $B = f (P, E)$ (Kurt Lewin Equation).
+
+- The "Suggesting Impulse Buying" phenomenon - Customers will occasionally buy products not because they want them but because of how they are presented to them.
+    {{< spoiler text="Example" >}}
+    Items at eye level tend to be purchased more than those down near the floor.⁠⁠ 
+    
+    - For this reason, you’ll find expensive brand names featured in easy-to-reach locations on store shelves because they drive the most profit, while cheaper alternatives are tucked away in harder-to-reach spots. 
+    - The same goes for end caps, which are the units at the end of aisles. End caps are moneymaking machines for retailers because they are obvious locations that encounter a lot of foot traffic. For example, 45 percent of Coca-Cola sales come specifically from end-of-the-aisle racks.
+    
+    The more obviously available a product or service is, the more likely you are to try it.
+    
+    {{< /spoiler >}}
+
+**Vision** dominates human sensing.
+
+- Visual cues powerfully trigger behavior.
+- It is important to live and work in environments that are filled with productive cues and devoid of unproductive ones.
+- You don’t have to be the victim of your environment. You can also be the architect of it! 💪
+
+
+### How to design your environment for success
+
+Every habit is initiated by a cue, and we are more likely to notice cues that stand out.
+
+- When the cues that spark a habit are subtle or hidden, they are easy to ignore.
+
+  {{< spoiler text="Example" >}}
+
+  - It’s easy not to practice the guitar when it’s tucked away in the closet. 
+  - It’s easy not to read a book when the bookshelf is in the corner of the guest room. 
+  - It’s easy not to take your vitamins when they are out of sight in the pantry. ⁠
+
+  {{< /spoiler >}}
+
+- Creating obvious visual cues can draw your attention toward a desired habit.
+
+  {{< spoiler text="Example" >}}
+  
+  - Schiphol Airport urinals with fly stickers reduced cleaning costs by 8%.
+  
+  - Apples on the counter instead of fridge → more likely to eat them.
+
+  {{< /spoiler >}}
+
+-> Redesign your environment and make the cues for your preferred habits **more obvious**
+
+{{< spoiler text="Example" >}}
+
+- If you want to remember to take your medication each night, put your pill bottle directly next to the faucet on the bathroom counter.
+- If you want to practice guitar more frequently, place your guitar stand in the middle of the living room.
+- If you want to remember to send more thank-you notes, keep a stack of stationery on your desk.
+- If you want to drink more water, fill up a few water bottles each morning and place them in common locations around the house.
+
+{{< /spoiler >}}
+
+If you want to make a habit a big part of your life, make the cue a big part of your environment.
+
+- By ⁠⁠sprinkling⁠⁠ triggers throughout your surroundings, you increase the ⁠⁠odds⁠⁠ that you’ll think about your habit throughout the day.
+- Make sure the best choice is the most obvious one. Making a better decision is easy and natural when the cues for good habits are right in front of you.
+
+By environment design
+
+- You can alter the spaces where you live and work to increase your exposure to positive cues and reduce your exposure to negative ones.
+- Environment design allows you to take back control and become the architect of your life. Be the designer of your world and not merely the consumer of it.
+
+
+### The context is the cue
+
+Over time, habits shift from being linked to **specific cues** to being tied to the **whole context**.
+
+{{< spoiler text="Example" >}}
+many people drink more in social situations than they would ever drink alone. The trigger is rarely a single cue, but rather the whole situation: watching your friends order drinks, hearing the music at the bar, seeing the beers on tap.
+
+{{< /spoiler >}}
+
+- We mentally assign our habits to the locations in which they occur⁠ (home, office, gym, etc.). 
+- Each location develops a connection to certain habits and routines.
+
+Our behavior is *not* defined by the objects in the environment but by our **relationship** to them. 
+
+- Stop thinking about your environment as filled with objects. 
+- s**Start thinking about it as filled with relationships. Think in terms of how you interact with the spaces around you.**
+
+{{< spoiler text="Example" >}}
+Different people can have different memories—and thus different habits—associated with the same place.
+
+- For one person, her couch is the place where she reads for an hour each night. 
+- For someone else, the couch is where he watches television and eats a bowl of ice cream after work.
+
+{{< /spoiler >}}
+
+You can train yourself to link a particular habit with a particular context.
+
+Habits can be easier to change in a new environment by removing or escaping from old cues.
+
+- It is easier to associate a new habit with a new context than to build a new habit in the face of competing cues.
+
+  {{< spoiler text="Example" >}}
+
+  - It can be difficult to go to bed early if you watch television in your bedroom each night. 
+  - It can be hard to study in the living room without getting distracted if that’s where you always play video games.
+
+  {{< /spoiler >}}
+
+- When you step outside your normal environment, you leave your behavioral biases behind. You aren’t battling old environmental cues, which allows new habits to form without interruption.
+
+  {{< spoiler text="Example" >}}
+
+  - Want to think more creatively? Move to a bigger room, a rooftop patio, or a building with expansive architecture. Take a break from the space where you do your daily work, which is also linked to your current thought patterns.
+  - Trying to eat healthier? It is likely that you shop on autopilot at your regular supermarket. Try a new grocery store. You may find it easier to avoid unhealthy food when your brain doesn’t automatically know where it is located in the store.
+
+  {{< /spoiler >}}
+
+- When you can’t manage to get to an entirely new environment, **redefine or rearrange your current one with "One space, one use"**, separating work, relaxation, and sleep zones.
+
+Avoid mixing the context of one habit with another!
+
+- When you start mixing contexts, you’ll start mixing habits—and the easier ones will usually win out.
+
+  {{< spoiler text="Example" >}}
+
+  You can use your phone for all sorts of tasks, which makes it a powerful device. But when you can use your phone to do nearly anything, it becomes hard to associate it with one task. You want to be productive, but you’re also conditioned to browse social media, check email, and play video games whenever you open your phone.
+
+  {{< /spoiler >}}
+
+- If your space is really limited, divide your room into activity zones (e.g., a chair for reading, a desk for writing, a table for eating.)
+
+-> Sticking with this strategy, each context will become associated with a particular habit and mode of thought.⁠
+
+If you want behaviors that are stable and predictable, you need an environment that is stable and predictable. A stable environment where everything has a place and a purpose is an environment where habits can easily form.
+
+{{% callout note %}}
+**💡Take Away**
+
+- Small changes in context can lead to large changes in behavior over time.
+- Every habit is initiated by a cue. We are more likely to notice cues that stand out.
+- Make the cues of good habits obvious in your environment.
+- Gradually, your habits become associated not with a single trigger but with the entire context surrounding the behavior. The context becomes the cue.
+- It is easier to build new habits in a new environment because you are not fighting against old cues.
+
+{{% /callout %}}
 
 ## The Secret to Self-Control
