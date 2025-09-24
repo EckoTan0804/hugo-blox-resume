@@ -36,7 +36,11 @@ header:
   image:  
 ---
 
-## The Man Who Didn't Look Right
+![截屏2025-09-24 22.35.03](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2025-09-24%2022.35.03.png)
+
+
+
+## From Autopilot to Awareness
 
 The human brain is a prediction machine. 
 
@@ -413,7 +417,7 @@ many people drink more in social situations than they would ever drink alone. Th
 Our behavior is *not* defined by the objects in the environment but by our **relationship** to them. 
 
 - Stop thinking about your environment as filled with objects. 
-- s**Start thinking about it as filled with relationships. Think in terms of how you interact with the spaces around you.**
+- **Start thinking about it as filled with relationships. Think in terms of how you interact with the spaces around you.**
 
 {{< spoiler text="Example" >}}
 Different people can have different memories—and thus different habits—associated with the same place.
@@ -475,3 +479,69 @@ If you want behaviors that are stable and predictable, you need an environment t
 {{% /callout %}}
 
 ## The Secret to Self-Control
+
+People with strong self-control are NOT inherently different from those who struggle.
+
+- The key is **structuring their environment** to avoid constant temptations - They don’t rely on heroic willpower but rather **minimize situations that require it**.
+- The people with the *best* self-control are typically the ones who need to use it the *least*.
+- Long-term success comes from **creating a disciplined environment**, not just wishing for more discipline.
+
+Habits in the brain:
+
+- Once encoded, they NEVER fully disappear!
+
+- Once encoded, the urge to act follows whenever the environmental cues reappear.⁠ If you’re not careful about cues, you can cause the very behavior you want to stop.
+
+  {{< spoiler text="Example" >}}
+  
+  - Shaming obese people with weight-loss presentations can make them feel stressed, and as a result many people return to their favorite coping strategy: overeating. 
+  - Showing pictures of blackened lungs to smokers leads to higher levels of anxiety, which drives many people to reach for a cigarette.
+  
+  {{< /spoiler >}}
+
+Bad habits are ⁠⁠**autocatalytic⁠⁠**: the process feeds itself and reinforce itself in a vicious cycle.
+
+- {{< spoiler text="Example" >}}
+
+  - Feeling bad → eat junk food → feel worse → eat more.
+
+  - Watching TV → feel sluggish → watch more TV.
+
+  - Health anxiety → smoke → worse health → more anxiety.
+
+​	{{< /spoiler >}}
+
+- Researchers call this **cue-induced wanting**: external cues trigger automatic cravings.
+
+  -> Habit triggers work **unconsciously and automatically**, making bad habits self-perpetuating
+
+⁠In the short-run, you can choose to overpower temptation with willpower. But inn the long-run, we become a product of the environment that we live in.⁠⁠
+
+-> A more reliable approach is to ⁠⁠**cut bad habit off at the source⁠**⁠: **Reduce exposure to the cue that causes it**. **Make it *invisible*!**
+
+{{< spoiler text="Example" >}}
+
+- If you can’t seem to get any work done, leave your phone in another room for a few hours.
+- If you’re continually feeling like you’re not enough, stop following social media accounts that trigger jealousy and envy.
+- If you’re wasting too much time watching television, move the TV out of the bedroom.
+- If you’re spending too much money on electronics, quit reading reviews of the latest tech gear.
+- If you’re playing too many video games, unplug the console and put it in a closet after each use.
+
+{{< /spoiler >}}
+
+This is simple but effective: ⁠Remove a single cue and the entire habit often fades away.⁠⁠
+
+Secret to self-control: **Make the cues of your good habits obvious and the cues of your bad habits invisible.**
+
+- Self-control is a short-term strategy, not a long-term one. You may be able to resist temptation once or twice, but it’s unlikely you can muster the willpower to override your desires every time.
+- Instead of ⁠⁠summoning⁠⁠ a new dose of willpower whenever you want to do the right thing, ⁠⁠your energy would be better spent **optimizing your environment**.⁠
+
+{{% callout note %}}
+**💡Take Away**
+- The inversion of the 1st Law of Behavior Change is make it invisible.
+- Once a habit is formed, it is unlikely to be forgotten.
+- People with high self-control tend to spend less time in tempting situations. It’s easier to avoid temptation than resist it.
+- One of the most practical ways to eliminate a bad habit is to reduce exposure to the cue that causes it.
+- Self-control is a short-term strategy, not a long-term one.
+
+{{% /callout %}}
