@@ -38,6 +38,18 @@ header:
 
 ![截屏2025-09-24 22.35.03](https://raw.githubusercontent.com/EckoTan0804/upic-repo/master/uPic/%E6%88%AA%E5%B1%8F2025-09-24%2022.35.03.png)
 
+{{% callout note %}}
+**TL;DR**
+
+4 major steps to "make it obvious"
+
+- Become aware of your current habtis using **Habit Scorecard**
+- Make new habits specific and clear with **Implementation Intention**: `⁠⁠I will [BEHAVIOR] at [TIME] in [LOCATION].⁠⁠`
+- Anchor new habits seamlessly to existing ones using **Habit Stacking**
+- Optimize your environment to make cues for good habit visible
+- The secret of self-control: Reduce temptation in the environment, and rely less on self-control by removing cues for bad habits
+
+{{% /callout %}}
 
 
 ## From Autopilot to Awareness
