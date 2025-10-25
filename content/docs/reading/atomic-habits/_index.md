@@ -53,3 +53,38 @@ header:
 1. a routine or practice performed regularly; an automatic response to a specific situation.
 
 {{% /callout %}}
+
+
+
+## How to Create a Good Habit
+
+**The 1st Law: Make It Obvious**
+
+- Fill out the Habits Scorecard. Write down your current habits to become aware of them.
+- Use implementation intentions: “I will [BEHAVIOR] at [TIME] in [LOCATION].”
+- Use habit stacking: “After [CURRENT HABIT], I will [NEW HABIT].”
+- Design your environment. Make the cues of good habits obvious and visible.
+
+**The 2nd Law: Make It Attractive**
+
+- Use temptation bundling. Pair an action you *want* to do with an action you *need* to do.
+- Join a culture where your desired behavior is the normal behavior.
+- Create a motivation ritual. Do something you enjoy immediately before a difficult habit.
+
+**The 3rd Law: Make It Easy**
+
+**The 4th Law: Make It Satisfying**
+
+## How to Break a Bad Habit
+
+**Inversion of the 1st Law: Make It Invisible**
+
+- Reduce exposure. Remove the cues of your bad habits from your environment.
+
+**Inversion of the 2nd Law: Make It Unattractive**
+
+- Reframe your mind-set. Highlight the benefits of avoiding your bad habits.
+
+**Inversion of the 3rd Law: Make It Difficult**
+
+**Inversion of the 4th Law: Make It Unsatisfying**
