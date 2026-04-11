@@ -141,6 +141,11 @@ main:
   identifier: ETF
   parent: finance
   weight: 610
+- name: "Trading"
+  url: docs/finance/trading
+  identifier: trading
+  parent: finance
+  weight: 620
 
 - name: "📚 Reading"
   url: docs/reading/
