@@ -2,13 +2,13 @@
 # ===== Title, summary, and position in the left sidebar =====
 # linktitle:   # Title shown in the left sidebar menu
 summary:  # Summary of this post
-weight: 601 # Position in the left sidebar
+weight: 701 # Position in the left sidebar
 # ============================================================
 
 # ========== Basic metadata ==========
 title: Personal Finance
 date: 2025-02-22
-draft: false
+draft: true
 authors:
   - admin
 tags:

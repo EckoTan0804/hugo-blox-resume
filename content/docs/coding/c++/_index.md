@@ -2,7 +2,7 @@
 # ===== Title, summary, and position in the left sidebar =====
 linktitle:  # Title shown in the left sidebar menu
 summary:  # Summary of this post
-weight: 405
+weight: 505
 # ============================================================
 
 # ========== Basic metadata ==========

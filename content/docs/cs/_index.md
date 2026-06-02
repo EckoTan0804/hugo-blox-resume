@@ -2,7 +2,7 @@
 linktitle: CS
 title: Computer Science
 layout: docs
-weight: 500
+weight: 600
 
 # View.
 #   1 = List

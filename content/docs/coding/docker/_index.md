@@ -1,6 +1,6 @@
 ---
 summary: Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers.
-weight: 402
+weight: 502
 title: Docker
 date: '2020-12-11'
 draft: false

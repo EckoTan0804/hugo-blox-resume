@@ -2,7 +2,7 @@
 # ===== Title, summary, and position in the left sidebar =====
 linktitle: Trading  # Title shown in the left sidebar menu
 summary:  # Summary of this post
-weight: 620 # Position in the left sidebar
+weight: 720 # Position in the left sidebar
 # ============================================================
 
 # ========== Basic metadata ==========

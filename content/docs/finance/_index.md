@@ -2,7 +2,7 @@
 linktitle: Finance
 title: Finance
 layout: docs
-weight: 600
+weight: 700
 
 # View.
 #   1 = List
