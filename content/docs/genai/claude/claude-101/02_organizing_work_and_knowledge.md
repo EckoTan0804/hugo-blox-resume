@@ -199,7 +199,7 @@ If you ask for something substantial and Claude responds in the chat instead of 
 
 ### What are Skills?
 
-Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Think of them as **expertise packages**—they teach Claude how to complete specific tasks in a repeatable way.
+**Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks.** Think of them as ***expertise packages***—they teach Claude how to complete specific tasks in a repeatable way.
 
 ### Types of Skills
 
@@ -232,11 +232,13 @@ The easiest way to create a custom Skill is through **conversation with Claude i
 1. **Start a new chat** and tell Claude what you want to create.
     - E.g., *"I want to create a skill for writing quarterly business reviews" or "I need a skill that applies our brand guidelines to presentations."*
 
-2- **Answer Claude's questions.**
+2. **Answer Claude's questions.**
 
-3- **Upload reference materials** if you have them.
+   Claude will interview you about your workflow, asking things like: What should this skill do? What makes good output for this type of work? Can you give examples of when you'd use this skill?
 
-4- **Save your skill.** When finished, Claude generates a file containing your properly structured skill. All you have to do is save it and the skill will be ready for Claude to use.
+3.  **Upload reference materials** if you have them (templates, style guides, brand assets, or examples of work, etc.).
+
+4. **Save your skill.** When finished, Claude generates a file containing your properly structured skill. All you have to do is save it and the skill will be ready for Claude to use.
 
 ### Skills vs. Projects
 
@@ -254,7 +256,7 @@ Think of it this way: **projects store knowledge, skills perform tasks**.
      
    - Skills shine when you have repeatable workflows you want Claude to run consistently.
 
-The two features complement each other. A skill can reference knowledge stored in a project. The project provides the *what* (information), the skill provides the *how* (process).
+The two features complement each other: A skill can reference knowledge stored in a project. The project provides the *what* (information), the skill provides the *how* (process).
 
 |                 | Projects                                                   | Skills                                                                |
 | --------------- | ---------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -262,3 +264,7 @@ The two features complement each other. A skill can reference knowledge stored i
 | **Best for**    | Long-term context, reference materials, team collaboration | Repeatable workflows, multi-step tasks, consistent methodology        |
 | **Example**     | Customer hub, research buddy, feedback generator           | Process guidelines (like brand or legal), Blog drafting, PDF creation |
 | **Persistence** | Knowledge available across all chats in the project        | Instructions applied when the skill is invoked                        |
+
+{{< spoiler text="Example" >}}
+If we think of Claude as a digital employee, **a Project is his "dedicated office" that stores all the background knowledge (the What)**—such as medical data and design specs for a "Cat Health App"—ensuring he always has access to these reference materials whenever he is in this office. On the other hand, **a Skill is a "standard operating procedure (the How)" that he has mastered**—such as a structured workflow for crafting social media posts by extracting selling points, adding emojis, and generating catchy headlines. When you ask him to write a post within the "Cat App Office (Project)," he instantly runs his "content creation assembly line (Skill)," flawlessly processing the professional cat data from the project into a highly engaging, structured, and polished output.
+{{< /spoiler >}}
