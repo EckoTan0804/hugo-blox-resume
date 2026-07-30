@@ -37,8 +37,8 @@ profiles:
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/EckoTan0804
+  # - icon: brands/github
+  #   url: https://github.com/EckoTan0804
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/haobin-tan/
   # - icon: academicons/google-scholar
@@ -52,31 +52,31 @@ interests:
   - Machine Learning
   - Data Science
 
-education:
-  # - area: PhD Artificial Intelligence
-  #   institution: Stanford University
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-  #   button:
-  #     text: 'Read Thesis'
-  #     url: 'https://example.com'
+# education:
+#   # - area: PhD Artificial Intelligence
+#   #   institution: Stanford University
+#   #   date_start: 2016-01-01
+#   #   date_end: 2020-12-31
+#   #   summary: |
+#   #     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+#   #   button:
+#   #     text: 'Read Thesis'
+#   #     url: 'https://example.com'
 
-  - area: MSc Computer Science
-    institution: Karlsruhe Institute of Technology (KIT)
-    date_start: 2019-05-30
-    date_end: 2022-09-30
-    summary: |
-      - Focus: Artificial Intelligence (AI)
-      - GPA: 1.7/1.0 (German Grading System)
+#   - area: MSc Computer Science
+#     institution: Karlsruhe Institute of Technology (KIT)
+#     date_start: 2019-05-30
+#     date_end: 2022-09-30
+#     summary: |
+#       - Focus: Artificial Intelligence (AI)
+#       - GPA: 1.7/1.0 (German Grading System)
 
-  - area: BSc Computer Science
-    institution: Karlsruhe Institute of Technology (KIT)
-    date_start: 2014-10-15
-    date_end: 2019-05-30
-    summary: |
-      - Focus: Robotics and Automation, Software Engineering
+#   - area: BSc Computer Science
+#     institution: Karlsruhe Institute of Technology (KIT)
+#     date_start: 2014-10-15
+#     date_end: 2019-05-30
+#     summary: |
+#       - Focus: Robotics and Automation, Software Engineering
 
 work:
   - position: Software Concept Developer / Innovation Manager for Algorithms
@@ -85,7 +85,7 @@ work:
     company_logo: 'custom/aumovio'
     date_start: 2025-09-01
     date_end: ''
-    summary: 'Since September 2025, Continental’s Automotive business has officially spun off and continues under the new name **Aumovio**. My role transitioned seamlessly with the spin-off, ensuring continuity of responsibilities and expertise.'
+    summary: '(Since September 2025, Continental’s Automotive business has officially spun off and continues under the new name **Aumovio**. My role transitioned seamlessly with the spin-off, ensuring continuity of responsibilities and expertise.)'
 
   - position: Software Concept Developer / Innovation Manager for Algorithms
     company_name: Continental

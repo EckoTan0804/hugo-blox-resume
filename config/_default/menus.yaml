@@ -218,7 +218,7 @@ main:
 #   parent: online-courses
 #   weight: 801
 
-- name: "\U0001F9FE R\xE9sum\xE9"
-  url: uploads/resume.pdf
-  identifier: resume
-  weight: 1000
+# - name: "\U0001F9FE R\xE9sum\xE9"
+#   url: uploads/resume.pdf
+#   identifier: resume
+#   weight: 1000
